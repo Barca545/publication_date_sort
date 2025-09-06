@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "name": "dc_wiki_appearances_sort",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pub-sort": "file/pub-sort"
+  }
+}
