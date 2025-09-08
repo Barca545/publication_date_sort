@@ -1,0 +1,2 @@
+/target
+# Arguably `node_modules` shouldn't be checked into version control but doing so has no real downsides and makes deterministic builds easier.

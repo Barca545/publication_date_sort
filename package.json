@@ -2,9 +2,22 @@
   "version": "0.0.1",
   "name": "dc_wiki_appearances_sort",
   "scripts": {
-    "start": "node index.js"
+    "start": "tsx index.ts",
+    "test": "tsc --noEmit && tsx --test",
+    "build": "tsc"
   },
   "dependencies": {
-    "pub-sort": "file/pub-sort"
-  }
+    "xml-js": "1.6.11"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5"
+  },
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
