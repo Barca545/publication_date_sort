@@ -1,29 +1,46 @@
 import test from "node:test";
-import {loadJson, jsonToList, parseText} from "../load";
+import {loadJson, jsonToList, parseComicTemplate} from "../load";
 import fs from "fs";
 import  assert  from "node:assert";
+import { ListEntry } from "../pub-sort";
 
-// TODO: Make a type for the xml file
-test("loadJSON", (_t) => {
-  const json = loadJson("test/Scarlett Scott Apearances.xml");
-  // TODO: Add this to the load function to get at the text
-  // Will need to loop over numbers not just use 0
-  // console.log(json["mediawiki"]["page"][0]["revision"]["text"]);
-  // const list = jsonToList(json);
-  // console.log(list);
-  // TODO: Add assert
-})
-
-
-
-test("Parse Text Section", (_t) => {
+// TODO: Currently failing because the }} at the end of the page template is not being excised properly
+test("Parse JSON Text Section", (_t) => {
   let text = fs.readFileSync(process.cwd() + "/test/test_text_data.txt", "utf-8");
-  let result = parseText(text);
-
- console.log(JSON.stringify(result.get("Title")));
+  let result = parseComicTemplate(text);
 
   let expected = new Map();
-console.log(assert.deepEqual(result.data, expected));
+  expected.set("Title", "Detective Comics");
+  expected.set("Image", "Detective Comics Vol 1 1090.jpg");
+  expected.set("Image2", "Detective Comics Vol 1 1090 Textless.jpg");
+  expected.set("Links", "");
+
   return assert.deepEqual(result.data, expected);
+})
+
+test("load xml file as a JSON", (_t) => {
+  const json = loadJson(process.cwd() + "/test/Scarlett Scott Apearances.xml");
+  // TODO: Add this to the load function to get at the text
+  // Will need to loop over numbers not just use 0
+  const result = json["mediawiki"]["page"][0]["revision"]["text"]["_text"];
+  
+  const expected = fs.readFileSync(process.cwd() + "/test/test_scarlett_first_appearance_test.txt", "utf-8");
+  
+  return assert.deepEqual(result, expected);
+})
+
+test("Convert Parsed Text Section to list",(_t) => {
+  const json = loadJson(process.cwd() + "/test/Scarlett Scott Apearances.xml");
+  const result = jsonToList(json);
+  const expected = [
+    new ListEntry("Detective Comics Vol 1 Issue 1090","2024","12","23",""),
+    new ListEntry("Detective Comics Vol 1 Issue 1091","2025","1","27", ""),
+    new ListEntry("Detective Comics Vol 1 Issue 1092","2025","2","26", ""),
+    new ListEntry("Detective Comics Vol 1 Issue 1093","2025","3","22", ""),
+    new ListEntry("Detective Comics Vol 1 Issue 1095","2025","5","19", ""),
+    new ListEntry("Detective Comics Vol 1 Issue 1096","2025","6","16", ""),
+  ];
+
+  return assert.deepEqual(result, expected);
 })
 

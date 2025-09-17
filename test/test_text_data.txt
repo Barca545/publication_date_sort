@@ -1,1 +1,1 @@
-{{DC Database:Comic Template | Title = Detective Comics | Image = Detective Comics Vol 1 1090.jpg | Image2 = Detective Comics Vol 1 1090 Textless.jpg }}
+{{DC Database:Comic Template | Title = Detective Comics | Image = Detective Comics Vol 1 1090.jpg | Image2 = Detective Comics Vol 1 1090 Textless.jpg | Links = }}
