@@ -1,6 +1,16 @@
 import test from "node:test";
+import assert from "node:assert";
 import { TemplateParser, Template, Peekable } from "../load";
 
+test("consumeIf", (_) => {
+  const template = "{{Name|Key = Value}}";
+  let parser = new TemplateParser(template);
+  return assert.deepEqual(true, parser.consumeIf("{"));
+  // TODO: Add a test this returns true
+});
+
+// FIXME: Name needs to not have a bracket attatched. I suspect this happens because the second bracket is still not being skipped properly
+// FIXME: Parser seems to be recurring way more often than it should. Maybe where it starts recurring needs to be tweaked
 test("Parse single level template w/ key & value", (_) => {
   const template = "{{Name|Key = Value}}";
   let parser = new TemplateParser(template);
@@ -10,7 +20,7 @@ test("Parse single level template w/ key & value", (_) => {
   expected.set("Key", "Value");
   // console.log(res);
   // console.log(expected);
-  res.log();
+  console.log(res.toString());
   console.log(res === expected);
 });
 

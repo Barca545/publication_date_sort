@@ -2,7 +2,7 @@ import fs from "fs";
 import convert from "xml-js";
 import process from "process";
 import { ListEntry } from "./pub-sort.js";
-import { match, None, Some, unwrap, Option } from "./option.js";
+import { match, None, Some, Option } from "./option.js";
 // import Wikiapi from "wikiapi";
 import wtf from "wtf_wikipedia";
 // // import ParseMediawikiTemplate from "parse-mediawiki-template";
@@ -199,7 +199,7 @@ export class TemplateParser {
   // TODO: Should exit when encounter }} and return the result
   // TODO: Really the ones that encounter {{ or }} need to peek ahead to check the next char then recursively call parse.
   parse(): Template {
-    let phase = ParsingStage.Name;
+    let phase = ParsingStage.Identifier;
     // These are for storing values currently being parsed
     // In the case of parsing a template, it is just appended to the template not tracked by value
     let key = "";
@@ -208,80 +208,76 @@ export class TemplateParser {
 
     let tmplt = new Template();
 
+    // FIXME: Does this create a new iterator or use the previous one? I need it to use the same one
+    // Worst case just do a loop and call next
+    // I think it uses the same one since it is using this.#src which does not create a new instance of the iterator
+    // TODO: Probably rever to a for...of loop I don't think that was the problem
+    let res;
     for (const ch of this.#src) {
-      // FIXME: Should not include the brackets in names and values
-      // FIXME: Seems like it fails to save because return template is empty
-      // That might just be a display error. I need to add a toString method for Templates
-
-      switch (ch) {
-        case "|": {
-          console.log(name);
-          // Add the name if we were just parsing a value
-          if (phase == ParsingStage.Name) {
-            tmplt.setName(name);
-          }
-          // Add the previous data if we were just parsing a value
-          if (phase == ParsingStage.Value) {
-            tmplt.set(key.trim(), value.trim());
-          }
-
-          // We're parsing a new key so reset things
-          phase = ParsingStage.Key;
-          key = "";
-        }
-        case "=": {
-          if (phase == ParsingStage.Name) {
-            tmplt.setName(name);
-          }
-          // We're parsing a new value so reset things
-          phase = ParsingStage.Value;
-          value = "";
-        }
-        // TODO: Ensure this early returns
-        case "}": {
-          if (this.#src.peek() == "}") {
-            if (phase == ParsingStage.Name) {
-              tmplt.setName(name);
-            }
-            // Need to consume the following '}' token
-            let _ = this.#src.next();
-            // Add the previous data if we were just parsing a value
-            if (phase == ParsingStage.Value) {
-              tmplt.set(key.trim(), value.trim());
-            }
+      // const ch = res.value;
+      // FIXME: Fails to save because return template is empty
+      if (
+        ch === "{" &&
+        phase === ParsingStage.Identifier &&
+        this.consumeIf("{")
+      ) {
+        dbg("first bracket check reached");
+        // If true, this marks the beginning of a new template and tell the function to recur
+        let res = this.parse();
+        // This unwrap should be fine since all templates have a name afaict
+        tmplt.set(res.name().unwrap(), res);
+        phase = ParsingStage.Identifier;
+      } else if (ch === "|" && phase === ParsingStage.Identifier) {
+        // This signifies we are done parsing the identifier and can switch to value
+        // TODO: Might be edge cases if there are "|"s in identifiers
+        tmplt.setName(name.trim());
+        phase = ParsingStage.Key;
+      } else if (ch === "|" && phase != ParsingStage.Identifier) {
+        // Store the old (key, value) pair
+        tmplt.set(key.trim(), value.trim());
+        // Reset for the new (key, value) pair
+        key = "";
+        value = "";
+      } else if (ch === "=" && phase === ParsingStage.Key) {
+        phase = ParsingStage.Value;
+      } else if (
+        ch === "}" &&
+        phase === ParsingStage.Value &&
+        this.consumeIf("}")
+      ) {
+        dbg("Second bracket check reached");
+        // Store the final (key, value) pair
+        tmplt.set(key.trim(), value.trim());
+      } else {
+        switch (phase) {
+          case ParsingStage.Identifier: {
+            name += ch;
             break;
           }
-          // FIXME: I need to handle this case, I think the answer is just push to the string
-        }
-        case "{": {
-          // FIXME: Need to handle this case, it should recur and start parsing a new template
-          if (this.#src.peek() == "{") {
-            phase = ParsingStage.Key;
-            // Need to consume the following '{' token
-            let _ = this.#src.next();
-            // FIXME: This is really more of a problem with figuring out how to store templates
-            let inner = this.parse();
-            // Store the template value
-            tmplt.set(key.trim(), inner);
+          case ParsingStage.Key: {
+            key += ch;
+            break;
           }
-          // FIXME: I need to handle this case, I think the answer is just push to the string
-        }
-        default: {
-          switch (phase) {
-            case ParsingStage.Name: {
-              name += ch;
-            }
-            case ParsingStage.Key: {
-              key += ch;
-            }
-            case ParsingStage.Value: {
-              value += ch;
-            }
+          case ParsingStage.Value: {
+            value += ch;
+            break;
           }
         }
       }
     }
+    console.log("key: " + key + " = " + "val: " + value);
+    // console.log(("Whats here " + tmplt.get("Key").unwrap()) as string);
     return tmplt;
+  }
+
+  /**Consume the next character from the src iterator if it matches the expexted character. */
+  consumeIf(expected: string): boolean {
+    let res = this.#src.peek();
+    if (res.isSome() && res.unwrap() === expected) {
+      return true;
+    } else {
+      return false;
+    }
   }
 }
 
@@ -291,7 +287,7 @@ export class Template {
   #data: Map<string, Template | string>;
 
   constructor() {
-    this.#name = None;
+    this.#name = new None();
     this.#data = new Map();
   }
 
@@ -305,18 +301,33 @@ export class Template {
     }
   }
 
+  /**Return the name of the template. */
+  name(): Option<string> {
+    return this.#name;
+  }
+
+  /**Set the name of the Template. */
   setName(name: string) {
     this.#name = new Some(name);
   }
 
   /** Set a value in the template. If the field is already assigned, replace the value. */
   set(key: string, val: Template | string) {
+    console.log(`set called w/ ${key},${val}`);
     this.#data.set(key, val);
   }
 
-  log() {
+  toString() {
     // TODO: This has to loop through the key value pairs and append them. just printing data returns the Map
-    console.log(`{{${unwrap(this.#name)}}| ${this.#data}}}`);
+    // console.log(JSON.stringify(Object.fromEntries(this.#data)));
+    console.log("size " + this.#data.size);
+    let data = "";
+    for (const element of this.#data) {
+      console.log(element);
+      data += `${element},\n`;
+    }
+    // data += "}";
+    return `${this.#name.unwrap()}| ${data}`;
   }
 }
 
@@ -328,16 +339,15 @@ export class Peekable<T> {
 
   constructor(iter: Iterable<T>) {
     this.#iter = iter[Symbol.iterator]();
-    this.#peeked = None;
+    this.#peeked = new None();
   }
 
   next(): IteratorResult<T> {
-    if (this.#peeked instanceof Some) {
-      // FIXME: This needs to actually confirm it is done
-      // return { value: unwrap(this.#peeked), done: false };
-      const res = unwrap(this.#peeked);
+    if (this.#peeked.isSome()) {
+      const res = this.#peeked.unwrap();
       // We're taking the peeked value so it's gone now
-      this.#peeked = None;
+      // TODO: Give options a take method
+      this.#peeked = new None();
       return res;
     } else {
       return this.#iter.next();
@@ -357,7 +367,7 @@ export class Peekable<T> {
       () => {
         const res = this.#iter.next();
         this.#peeked = new Some(res);
-        return new Some(res);
+        return new Some(res.value);
       }
     );
   }
@@ -369,7 +379,12 @@ export class Peekable<T> {
 }
 
 enum ParsingStage {
-  Name,
+  Identifier,
   Key,
   Value,
+}
+
+// TODO: Delete writing console.log() got annoying
+function dbg(message: any) {
+  console.log(message);
 }

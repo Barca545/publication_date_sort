@@ -1,23 +1,36 @@
-export class Some<T> {
-  value: T;
+export class Some<T> implements OptionInterface<T> {
+  private value: T;
 
   constructor(val: T) {
     this.value = val;
   }
+
+  unwrap(): T {
+    return this.value;
+  }
+
+  isSome(): boolean {
+    return true;
+  }
 }
 
-export class None {}
+export class None implements OptionInterface<any> {
+  unwrap(): never {
+    throw new Error(`Tried to unwrap option None`);
+  }
+
+  isSome(): boolean {
+    return false;
+  }
+}
+
+interface OptionInterface<T> {
+  unwrap(): T | never;
+  isSome(): boolean;
+}
 
 // Should option be an intereface or class not type
 export type Option<T> = Some<T> | None;
-
-export function unwrap<T>(option: Option<T>): T {
-  if (option instanceof None) {
-    throw new Error(`Tried to unwrap option None`);
-  } else {
-    return option.value;
-  }
-}
 
 export function match<T, R>(
   option: Option<T>,
@@ -25,7 +38,7 @@ export function match<T, R>(
   none: () => R
 ): R {
   if (option instanceof Some) {
-    return some(option.value);
+    return some(option.unwrap());
   } else {
     return none();
   }
