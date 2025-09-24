@@ -183,71 +183,72 @@ export function loadJson(path: string): any {
 // }
 
 export class TemplateParser {
-  #src: Peekable<string>;
-  #data: Template;
+  /**readonly*/ src: Peekable<string>;
+  /**private*/ data: Template;
 
   constructor(src: string) {
     // This spread syntax converts the string into an array
-    this.#src = new Peekable([...src]);
-    this.#data = new Template();
+    this.src = new Peekable([...src]);
+    this.data = new Template();
   }
 
   // Parse until a '{' is encountered while (const ch = this.#src.next()) { switch (ch) case '{': {
   // Start parsing template } case '|':{
   // Push the most recent pair of key/value
-  // TODO: Templates dont have a trim method so this needs a slight refactor.
-  // TODO: Should exit when encounter }} and return the result
-  // TODO: Really the ones that encounter {{ or }} need to peek ahead to check the next char then recursively call parse.
-  parse(): Template {
+  parse(top_level: boolean): Template {
+    // This is sort of brute force but it's needed to ensure the top level name does not contain {{
+    if (top_level) {
+      this.consumeIf("{");
+      this.consumeIf("{");
+    }
     let phase = ParsingStage.Identifier;
     // These are for storing values currently being parsed
     // In the case of parsing a template, it is just appended to the template not tracked by value
     let key = "";
-    let value = "";
+    let value: string | Template = "";
     let name = "";
 
     let tmplt = new Template();
 
-    // FIXME: Does this create a new iterator or use the previous one? I need it to use the same one
-    // Worst case just do a loop and call next
-    // I think it uses the same one since it is using this.#src which does not create a new instance of the iterator
-    // TODO: Probably rever to a for...of loop I don't think that was the problem
-    let res;
-    for (const ch of this.#src) {
-      // const ch = res.value;
-      // FIXME: Fails to save because return template is empty
-      if (
-        ch === "{" &&
-        phase === ParsingStage.Identifier &&
-        this.consumeIf("{")
-      ) {
-        dbg("first bracket check reached");
+    for (const ch of this.src) {
+      if (phase === ParsingStage.Value && ch === "{" && this.consumeIf("{")) {
         // If true, this marks the beginning of a new template and tell the function to recur
-        let res = this.parse();
-        // This unwrap should be fine since all templates have a name afaict
-        tmplt.set(res.name().unwrap(), res);
+        value = this.parse(false);
         phase = ParsingStage.Identifier;
       } else if (ch === "|" && phase === ParsingStage.Identifier) {
-        // This signifies we are done parsing the identifier and can switch to value
+        // This signifies we are done parsing the identifier and can switch to parsing the first entry
         // TODO: Might be edge cases if there are "|"s in identifiers
         tmplt.setName(name.trim());
         phase = ParsingStage.Key;
       } else if (ch === "|" && phase != ParsingStage.Identifier) {
         // Store the old (key, value) pair
-        tmplt.set(key.trim(), value.trim());
+        // Trim the value if it is a string
+        if (typeof value === "string") {
+          value = value.trim();
+          phase = ParsingStage.Key;
+        }
+        // If there is no key the key value should be the length
+        if (key === "") {
+          key = tmplt.size().toString();
+        }
+        tmplt.set(key.trim(), value);
+
         // Reset for the new (key, value) pair
         key = "";
         value = "";
       } else if (ch === "=" && phase === ParsingStage.Key) {
         phase = ParsingStage.Value;
       } else if (
-        ch === "}" &&
         phase === ParsingStage.Value &&
+        ch === "}" &&
         this.consumeIf("}")
       ) {
-        dbg("Second bracket check reached");
+        // Trim the value if it is a string
+        if (typeof value === "string") {
+          value = value.trim();
+        }
         // Store the final (key, value) pair
-        tmplt.set(key.trim(), value.trim());
+        tmplt.set(key.trim(), value);
       } else {
         switch (phase) {
           case ParsingStage.Identifier: {
@@ -265,15 +266,16 @@ export class TemplateParser {
         }
       }
     }
-    console.log("key: " + key + " = " + "val: " + value);
     // console.log(("Whats here " + tmplt.get("Key").unwrap()) as string);
     return tmplt;
   }
 
   /**Consume the next character from the src iterator if it matches the expexted character. */
   consumeIf(expected: string): boolean {
-    let res = this.#src.peek();
+    let res = this.src.peek();
     if (res.isSome() && res.unwrap() === expected) {
+      // Actually consume by calling next and dropping the result
+      let _ = this.src.next();
       return true;
     } else {
       return false;
@@ -282,17 +284,18 @@ export class TemplateParser {
 }
 
 export class Template {
-  #name: Option<string>;
-  // Ok anoyingly it needs a base case where a string is accepted
-  #data: Map<string, Template | string>;
+  private name: Option<string>;
+  private data: Map<string, Template | string>;
 
   constructor() {
-    this.#name = new None();
-    this.#data = new Map();
+    this.name = new None();
+    this.data = new Map();
   }
 
   get(key: string): Option<Template | string> {
-    const res = this.#data.get(key);
+    if (this.data.size === 1) {
+    }
+    const res = this.data.get(key);
 
     if (res === undefined) {
       return new None();
@@ -302,32 +305,37 @@ export class Template {
   }
 
   /**Return the name of the template. */
-  name(): Option<string> {
-    return this.#name;
+  getName(): Option<string> {
+    return this.name;
   }
 
   /**Set the name of the Template. */
   setName(name: string) {
-    this.#name = new Some(name);
+    this.name = new Some(name);
   }
 
   /** Set a value in the template. If the field is already assigned, replace the value. */
   set(key: string, val: Template | string) {
-    console.log(`set called w/ ${key},${val}`);
-    this.#data.set(key, val);
+    this.data.set(key, val);
+    // console.log(this.data.entries()); // console.log(`set called w/ \"${key}\"=\"${val}\"`);
+  }
+
+  size(): number {
+    return this.data.size;
   }
 
   toString() {
     // TODO: This has to loop through the key value pairs and append them. just printing data returns the Map
     // console.log(JSON.stringify(Object.fromEntries(this.#data)));
-    console.log("size " + this.#data.size);
     let data = "";
-    for (const element of this.#data) {
-      console.log(element);
-      data += `${element},\n`;
+    for (const element of this.data) {
+      if (data.length > 0) {
+        data += "\n";
+      }
+      data += JSON.stringify(element);
     }
-    // data += "}";
-    return `${this.#name.unwrap()}| ${data}`;
+
+    return `Template{${this.name.unwrap()}| ${data}}`;
   }
 }
 

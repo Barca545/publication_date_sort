@@ -1,27 +1,26 @@
 import test from "node:test";
 import assert from "node:assert";
 import { TemplateParser, Template, Peekable } from "../load";
+import { isEqual } from "lodash-es";
 
 test("consumeIf", (_) => {
-  const template = "{{Name|Key = Value}}";
+  const template = "ABC";
   let parser = new TemplateParser(template);
-  return assert.deepEqual(true, parser.consumeIf("{"));
-  // TODO: Add a test this returns true
+  return (
+    assert.deepEqual(true, parser.consumeIf("A")) &&
+    assert.deepEqual("B", parser.src.next())
+  );
 });
 
-// FIXME: Name needs to not have a bracket attatched. I suspect this happens because the second bracket is still not being skipped properly
-// FIXME: Parser seems to be recurring way more often than it should. Maybe where it starts recurring needs to be tweaked
 test("Parse single level template w/ key & value", (_) => {
   const template = "{{Name|Key = Value}}";
   let parser = new TemplateParser(template);
-  let res = parser.parse();
+  let res = parser.parse(true);
   let expected = new Template();
   expected.setName("Name");
   expected.set("Key", "Value");
-  // console.log(res);
-  // console.log(expected);
-  console.log(res.toString());
-  console.log(res === expected);
+
+  return isEqual(res, expected);
 });
 
 test("Parse single level template only name", (_) => {
