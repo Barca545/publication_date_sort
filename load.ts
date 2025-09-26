@@ -210,6 +210,8 @@ export class TemplateParser {
 
     let tmplt = new Template();
 
+    // FIXME: Should this return when }} is encounterd regardless of anything else?
+    // If so the single name case and the key value case can merge
     for (const ch of this.src) {
       if (phase === ParsingStage.Value && ch === "{" && this.consumeIf("{")) {
         // If true, this marks the beginning of a new template and tell the function to recur
@@ -227,6 +229,7 @@ export class TemplateParser {
           value = value.trim();
           phase = ParsingStage.Key;
         }
+        // FIXME: I don't like making this assumption
         // If there is no key the key value should be the length
         if (key === "") {
           key = tmplt.size().toString();
@@ -238,17 +241,22 @@ export class TemplateParser {
         value = "";
       } else if (ch === "=" && phase === ParsingStage.Key) {
         phase = ParsingStage.Value;
-      } else if (
-        phase === ParsingStage.Value &&
-        ch === "}" &&
-        this.consumeIf("}")
-      ) {
-        // Trim the value if it is a string
-        if (typeof value === "string") {
-          value = value.trim();
+      } else if (ch === "}" && this.consumeIf("}")) {
+        // Should always have a name so this is fine
+        tmplt.setName(name.trim());
+
+        // If there is no key cannot insert
+        if (key.length != 0) {
+          // Trim the value if it is a string
+          if (typeof value === "string") {
+            value = value.trim();
+          }
+          // FIXME: Should require key have a unique value
+          // Store the final (key, value) pair
+          tmplt.set(key.trim(), value);
         }
-        // Store the final (key, value) pair
-        tmplt.set(key.trim(), value);
+
+        return tmplt;
       } else {
         switch (phase) {
           case ParsingStage.Identifier: {
@@ -310,14 +318,15 @@ export class Template {
   }
 
   /**Set the name of the Template. */
-  setName(name: string) {
+  setName(name: string): Template {
     this.name = new Some(name);
+    return this;
   }
 
   /** Set a value in the template. If the field is already assigned, replace the value. */
-  set(key: string, val: Template | string) {
+  set(key: string, val: Template | string): Template {
     this.data.set(key, val);
-    // console.log(this.data.entries()); // console.log(`set called w/ \"${key}\"=\"${val}\"`);
+    return this;
   }
 
   size(): number {
