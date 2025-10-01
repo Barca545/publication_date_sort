@@ -25,12 +25,20 @@ export class None implements OptionInterface<any> {
 }
 
 interface OptionInterface<T> {
+  /**Returns the value contained inside the Option. Panics if the option is None. */
   unwrap(): T | never;
+
+  /**Returns true if the Option is Some T */
   isSome(): boolean;
+
+  // /**Takes the value from an Option leaving a None in it's place. */
+  // take(): Option<T>;
 }
 
 // Should option be an intereface or class not type
 export type Option<T> = Some<T> | None;
+
+abstract class Opt<T> {}
 
 export function match<T, R>(
   option: Option<T>,

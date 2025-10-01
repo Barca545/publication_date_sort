@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert";
-import { TemplateParser, Template, Peekable } from "../load";
+import { TemplateParser, Template } from "../parser";
 import { isEqual } from "lodash-es";
 
 test("consumeIf", (_) => {
