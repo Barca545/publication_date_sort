@@ -9,14 +9,23 @@ export class Some<T> implements OptionInterface<T> {
     return this.value;
   }
 
+  unwrap_or(fallback: T): T {
+    return this.value;
+  }
+
   isSome(): boolean {
     return true;
   }
 }
 
-export class None implements OptionInterface<any> {
+export class None<T> implements OptionInterface<T> {
   unwrap(): never {
     throw new Error(`Tried to unwrap option None`);
+  }
+
+  // FIXME: If I want correct typing here none needs to be typed
+  unwrap_or(fallback: T): T {
+    return fallback;
   }
 
   isSome(): boolean {
@@ -31,14 +40,14 @@ interface OptionInterface<T> {
   /**Returns true if the Option is Some T */
   isSome(): boolean;
 
+  unwrap_or(fallback: T): T;
+
   // /**Takes the value from an Option leaving a None in it's place. */
   // take(): Option<T>;
 }
 
 // Should option be an intereface or class not type
-export type Option<T> = Some<T> | None;
-
-abstract class Opt<T> {}
+export type Option<T> = Some<T> | None<T>;
 
 export function match<T, R>(
   option: Option<T>,

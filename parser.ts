@@ -131,6 +131,8 @@ export class Template {
     }
   }
 
+  // FIXME: See if there us a way to make it so it is never possible to create a template without a name then make getName just return a string
+
   /**Return the name of the template. */
   getName(): Option<string> {
     return this.name;

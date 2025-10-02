@@ -52,10 +52,16 @@ function templateStringToListEntry(data: string): ListEntry {
   const template = new TemplateParser(data).parse(true);
   const title = template.get("Title").unwrap() as string;
   const vol = template.get("Volume").unwrap() as string;
-  const issue = template.get("Issue").unwrap() as string;
+  const issue = template
+    .get("Issue")
+    .unwrap_or(template.get("Chapter").unwrap_or("")) as string;
+  let digital = "";
 
+  if (template.getName().unwrap() == "DC Database:Comic Template") {
+    digital = " (Digital)";
+  }
   return new ListEntry(
-    `${title} Vol ${vol} ${issue}`,
+    `${title} Vol ${vol} ${issue}${digital}`,
     template.get("Year").unwrap_or("") as string,
     template.get("Month").unwrap_or("") as string,
     template.get("Day").unwrap_or("") as string,

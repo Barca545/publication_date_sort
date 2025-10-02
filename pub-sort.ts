@@ -1,46 +1,86 @@
-export class ListEntry {
-  readonly title:string;
-  private year:string;
-  private month:string;
-  private day:string;
-  readonly link:string;
+import { toNumber } from "lodash-es";
 
-  constructor(title:string, year:string, month:string, day:string, link:string){
+export class ListEntry {
+  readonly title: string;
+  readonly date: EntryDate;
+  readonly link: string;
+
+  constructor(
+    title: string,
+    year: string,
+    month: string,
+    day: string,
+    link: string
+  ) {
     this.title = title;
-    this.year = year;
-    this.month = month;
-    this.day = day;
+    this.date = new EntryDate(year, month, day);
     this.link = link;
   }
 
-  date(): string {
-    return `${this.year}-${this.month}-${this.day}`
-  }
+  // date(): string {
+  //   return `${this.year}-${this.month}-${this.day}`;
+  // }
 }
 
-
 /**Sort List entries by their dates in ascending order */
-export function pubDateSort(list:ListEntry[]): ListEntry[] {
-  let unsortedList:ListEntry[] = []
+export function pubDateSort(list: ListEntry[]): ListEntry[] {
+  let unsortedList: ListEntry[] = [];
 
   // Sort the list
-  return list.sort((a,b) => isBiggerDate(a.date(), b.date()));
+  return list.sort((a, b) => isBiggerDate(a.date, b.date));
 }
 
 /**
- * Check if dateOne is later than dateTwo. 
- * @returns Returns 1 if the first argument is greater than the second, 0 if they're equal, and -1 otherwise. 
+ * Check if dateOne is later than dateTwo.
+ * @returns Returns 1 if the first argument is greater than the second, 0 if they're equal, and -1 otherwise.
  */
-function isBiggerDate(dateOne:string, dateTwo:string): number {
-  // knowing JS this will do some weird bullshit like comparing the strings as booleans and not numbers so test
-    if (dateOne > dateTwo){
-      return 1;
-    }
-    else if (dateOne == dateTwo){
-      return 0;
-    }
-    else {
-      return -1;
-    }
+export function isBiggerDate(dateOne: EntryDate, dateTwo: EntryDate): number {
+  if (dateOne.isGreater(dateTwo)) {
+    return 1;
+  } else if (dateOne.isEqual(dateTwo)) {
+    return 0;
+  } else {
+    return -1;
+  }
 }
 
+export class EntryDate {
+  year: number;
+  month: number;
+  day: number;
+
+  constructor(year: string, month: string, day: string) {
+    this.year = parseInt(year);
+    this.month = parseInt(month);
+    this.day = parseInt(day);
+  }
+
+  /**Returns true if `this` is a later date than `other` */
+  isGreater(other: EntryDate): boolean {
+    if (this.year > other.year) {
+      return true;
+    } else if (this.year == other.year && this.month > other.month) {
+      return true;
+    } else if (
+      this.year == other.year &&
+      this.month == other.month &&
+      this.day > other.day
+    ) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+
+  isEqual(other: EntryDate): boolean {
+    if (
+      this.year == other.year &&
+      this.month == other.month &&
+      this.day == other.day
+    ) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+}
