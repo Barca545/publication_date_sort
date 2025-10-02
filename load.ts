@@ -1,19 +1,7 @@
 import fs from "fs";
 import convert from "xml-js";
-import process from "process";
 import { ListEntry } from "./pub-sort.js";
-import { match, None, Some, Option } from "./option.js";
-// import Wikiapi from "wikiapi";
-import wtf from "wtf_wikipedia";
 import { TemplateParser } from "./parser.js";
-import { list } from "fs-jetpack";
-// // import ParseMediawikiTemplate from "parse-mediawiki-template";
-// // import ParseMediawikiTemplate from "parse-mediawiki-template"
-// // const parseMediawikiTemplate = require('parse-mediawiki-template')
-// // const { default: ParseMediawikiTemplate } = await import("parse-mediawiki-template");
-
-// // TODO: Load a file from fandom
-// // TODO: Rename to something reflecting it also generates the list
 
 // This probably does not need to be its own function. it's one line that is only used once
 /**

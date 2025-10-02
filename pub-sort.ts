@@ -1,5 +1,3 @@
-import { toNumber } from "lodash-es";
-
 export class ListEntry {
   readonly title: string;
   readonly date: EntryDate;
@@ -16,10 +14,6 @@ export class ListEntry {
     this.date = new EntryDate(year, month, day);
     this.link = link;
   }
-
-  // date(): string {
-  //   return `${this.year}-${this.month}-${this.day}`;
-  // }
 }
 
 /**Sort List entries by their dates in ascending order */
