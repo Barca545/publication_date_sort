@@ -54,23 +54,39 @@ interface CategoryMember {
 }
 
 // FIXME: Should return an object fitting the export
-export async function getAppearancePages(titles: string[]): Promise<any> {
-  console.log("did reach");
+export async function getAppearancePages(titles: string[]): Promise<string> {
   // Sanitize the titles to get rid of spaces
-  const pages = titles.map((title) => {
-    title.replaceAll(/\s/g, "_");
+  titles = titles.map((title) => {
+    return title.replaceAll(/\s/g, "_");
   });
 
+  // This is stuff for the actual api instead of special export but it has a limit so I want to avoid it unless it is needed
+  // // https://dc.fandom.com/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&titles=Catwoman_Vol_5_25|Catwoman_Vol_5_26&format=json
+  // let params = new URLSearchParams({
+  //   action: "query",
+  //   prop: "revisions",
+  //   rvprop: "content",
+  //   rvslots: "main",
+  //   limit: "50",
+  //   titles: titles.join("|"),
+  //   format: "json",
+  // });
+
+  // const url = new URL(
+  //   `https://dc.fandom.com/api.php?${params.toString()}`
+  // );
+
   let params = new URLSearchParams({
-    pages: pages.join("|"),
+    pages: titles.join("\r\n"),
     curonly: "1",
   });
 
   const url = new URL(
-    `https://dc.fandom.com/wiki/Special:Export?pages=${params.toString()}`
+    `https://dc.fandom.com/Special:Export?${params.toString()}`
   );
 
   const res = await fetch(url, {
+    method: "POST",
     headers: {
       "User-Agent": "Node.js https request",
     },
@@ -80,8 +96,5 @@ export async function getAppearancePages(titles: string[]): Promise<any> {
     throw new Error(`HTTP error! status: ${res.status}`);
   }
 
-  console.log("res");
-  console.log(res.json());
+  return res.text();
 }
-
-interface SpecialExportResponse {}

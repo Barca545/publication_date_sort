@@ -6574,17 +6574,17 @@ John Diggle teleports in and takes Merlyn away through a portal. He tells Oliver
     <ns>0</ns>
     <id>766808</id>
     <revision>
-      <id>3626478</id>
-      <parentid>3620439</parentid>
-      <timestamp>2024-07-10T20:45:00Z</timestamp>
+      <id>3823025</id>
+      <parentid>3626478</parentid>
+      <timestamp>2025-09-30T12:23:48Z</timestamp>
       <contributor>
-        <username>Cmanigold</username>
-        <id>36766115</id>
+        <username>Legionaire315</username>
+        <id>47817113</id>
       </contributor>
-      <origin>3626478</origin>
+      <origin>3823025</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="7308" sha1="9x0dws0ow4fg2ewi9pvl6em2e8iil6o" xml:space="preserve">{{DC Database:Comic Template
+      <text bytes="7312" sha1="4fwiku1shnhmds6pe57h1p56c8wpf6v" xml:space="preserve">{{DC Database:Comic Template
 | Title               = Green Arrow
 | Image               = Green Arrow Vol 7 13.jpg
 | Image4              = Green Arrow Vol 7 13 Textless Variant.jpg
@@ -6658,7 +6658,7 @@ Back at the island; Roy, Lian and Cheshire tell the others what happened. They s
 *** [[Martin Stein (Prime Earth)|Professor Stein]] {{BTS}}
 ** {{a|[[Barry Allen (Prime Earth)|The Flash (Barry Allen)]]}} 
 ** {{a|[[Hal Jordan (Prime Earth)|Green Lantern (Hal Jordan)]]}} 
-** {{a|[[Katar Hol (Prime Earth)|Hawkman (Katar Hol)]]}} 
+** {{a|[[Carter Hall (Prime Earth)|Hawkman (Carter Hall)]]}} 
 ** {{a|[[J'onn J'onzz (Prime Earth)|Martian Manhunter]]}} 
 ** {{a|[[Red Tornado (Prime Earth)|Red Tornado]]}} 
 ** {{a|[[Kal-El (Prime Earth)|Superman (Clark Kent)]]}} {{TV}} {{Green|Also in a photograph}} 
@@ -6693,7 +6693,7 @@ Back at the island; Roy, Lian and Cheshire tell the others what happened. They s
 | Recommended         = 
 | Links               = 
 }}</text>
-      <sha1>9x0dws0ow4fg2ewi9pvl6em2e8iil6o</sha1>
+      <sha1>4fwiku1shnhmds6pe57h1p56c8wpf6v</sha1>
     </revision>
   </page>
   <page>
@@ -7889,17 +7889,17 @@ Waller calls Oliver up to the control room and tells him that the war is coming 
     <ns>0</ns>
     <id>791776</id>
     <revision>
-      <id>3811948</id>
-      <parentid>3811270</parentid>
-      <timestamp>2025-08-31T00:45:29Z</timestamp>
+      <id>3822719</id>
+      <parentid>3811948</parentid>
+      <timestamp>2025-09-29T14:11:00Z</timestamp>
       <contributor>
-        <username>Torracat 725</username>
-        <id>44102237</id>
+        <username>Cmanigold</username>
+        <id>36766115</id>
       </contributor>
-      <origin>3811948</origin>
+      <origin>3822719</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1972" sha1="lv1rjgduf8c9vqj4cd1acnbf7t2k5wd" xml:space="preserve">{{DC Database:Comic Template
+      <text bytes="2476" sha1="smydy32ij50kn8ikccsfnw0n2xlcxfc" xml:space="preserve">{{DC Database:Comic Template
 | Title               = Green Arrow
 | Image               = Green Arrow Vol 7 27.jpg
 | Image2              = Green Arrow Vol 7 27 Textless.jpg
@@ -7937,8 +7937,8 @@ Waller calls Oliver up to the control room and tells him that the war is coming 
 | Editor1_1           = Chris Rosa
 | Editor1_2           = Paul Kaminski
 
-| Quotation           = 
-| Speaker             = 
+| Quotation           = When I was younger, I made a choice [[Drugs|to use]]. [[Green Arrow (Oliver Queen)|This man]]... '''he took that choice away.'''
+| Speaker             = [[Roy Harper (Prime Earth)|Roy Harper]]
 
 | StoryTitle1         = Crimson Sands, Part Three
 | Synopsis1           = 
@@ -7952,22 +7952,30 @@ Waller calls Oliver up to the control room and tells him that the war is coming 
 '''Antagonists:'''
 * {{a|[[Crimson Archer II (Prime Earth)|Crimson Archer]]}}
 '''Other Characters:'''
-* Phil {{Only}}
-* [[Dinah Drake (Prime Earth)|Dinah Drake Lance]] {{Mentioned}}
+* Phil &lt;small&gt;(Drug dealer)&lt;/small&gt; {{Only}}
+* [[Dinah Drake (Prime Earth)|Dinah Laurel Lance]] {{Mentioned}}
 '''Locations:'''
-* {{a|[[Star City]]}}
+* {{a|[[Prime Earth|Earth 0]]}}
+** {{a|[[United States of America]]}}
+*** {{a|[[Star City]]}} 
+**** {{a|[[Star City General Hospital|Star City Hospital]]}}
 '''Items:'''
-* {{a|[[Drugs|Crimson Sand]]}}
-* {{a|[[Trick Arrows]]}}
+* Crimson Archer's Bow
+** {{WP|Hypodermic needle|Hypodermic Arrow}}
+* {{a|[[Drugs]]}}
+** {{a|[[Crimson Sand]]}}
+* Green Arrow's Bow
+** {{a|[[Trick Arrows]]}}
 '''Vehicles:'''
 * &lt;br/&gt;
 
 | Notes               = 
+* This issue carries the legacy numbering {{c|Green Arrow Vol 1 360}}.
 | Trivia              = 
 | Recommended         = 
 | Links               = 
 }}</text>
-      <sha1>lv1rjgduf8c9vqj4cd1acnbf7t2k5wd</sha1>
+      <sha1>smydy32ij50kn8ikccsfnw0n2xlcxfc</sha1>
     </revision>
   </page>
   <page>
@@ -7975,17 +7983,19 @@ Waller calls Oliver up to the control room and tells him that the war is coming 
     <ns>0</ns>
     <id>792112</id>
     <revision>
-      <id>3814675</id>
-      <parentid>3813986</parentid>
-      <timestamp>2025-09-07T14:57:22Z</timestamp>
+      <id>3821683</id>
+      <parentid>3817289</parentid>
+      <timestamp>2025-09-27T07:23:20Z</timestamp>
       <contributor>
-        <username>Torracat 725</username>
-        <id>44102237</id>
+        <username>Erissays</username>
+        <id>50440468</id>
       </contributor>
-      <origin>3814675</origin>
+      <minor/>
+      <comment>name spelling correction</comment>
+      <origin>3821683</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3275" sha1="79fr25jjzkpo7jarzpcj1dzdqjfv73f" xml:space="preserve">{{DC Database:Comic Template
+      <text bytes="3962" sha1="lnhf2awl9a7qsatyhgp9nklxb6mn4i3" xml:space="preserve">{{DC Database:Comic Template
 | Title               = Cheetah &amp; Cheshire Rob the Justice League
 | Image               = Cheetah &amp; Cheshire Rob the Justice League Vol 1 2.jpg
 | Image2              = Cheetah &amp; Cheshire Rob the Justice League Vol 1 2 Textless.jpg
@@ -8016,8 +8026,8 @@ Waller calls Oliver up to the control room and tells him that the war is coming 
 | Editor1_1           = Jessica Berbey &lt;!-- Associate editor --&gt;
 | Editor1_2           = Rob Levin
 
-| Quotation           = 
-| Speaker             = 
+| Quotation           = You want to get up [[Justice League Satellite|there]] '''worrying''' about when-- not '''if,''' but '''when--''' [[Legion of Doom (Prime Earth)|one of them]] will '''stab''' us in the '''back?''' We've '''both''' been there before, [[Jade Nguyen (Prime Earth)|Jay]].
+| Speaker             = [[Barbara Minerva (Prime Earth)|Cheetah (Barbara Minerva)]]
 
 | StoryTitle1         = Chapter 2
 | Synopsis1           = 
@@ -8027,44 +8037,52 @@ Waller calls Oliver up to the control room and tells him that the war is coming 
 * {{a|[[Barbara Minerva (Prime Earth)|Cheetah (Barbara Minerva)]]}}
 * {{a|[[Jade Nguyen (Prime Earth)|Cheshire (Jade Nguyen)]]}}
 '''Supporting Characters:'''
-* {{a|[[Ayla Raatko (Prime Earth)|Featherweight (Ayla Raatko)]]}} {{1st}}
 * {{a|[[Klarion Bleak (Prime Earth)|Klarion]]}}
-** {{a|[[Teekl (Prime Earth)|Teekl]]}}
+** {{a|[[Teekl (Prime Earth)|Teekl]]}} {{a|[[Familiars|the Familiar]]}}
 * {{a|[[Lian Harper (Prime Earth)|Lian Harper]]}}
-* {{a|[[Rebecca Sharpe (Prime Earth)|Rebecca Sharpe]]}} {{1st}}
+* {{a|[[Rebecca Sharpe (Prime Earth)|Rebecca "Becky" Sharpe]]}} {{1st}}
 '''Antagonists:'''
 * &lt;br/&gt;
 '''Other Characters:'''
+* {{a|[[Alya Raatko (Prime Earth)|Featherweight (Alya Raatko)]]}} {{1st}} 
 * {{a|[[Steven Sharpe III (Prime Earth)|Gambler (Steven Sharpe III)]]}}
-* Mal {{1st}}
+* Hub City Police Department {{Cameo}}
+* {{a|[[Waylon Jones (Prime Earth)|Killer Croc (Waylon Jones)]]}} {{Picture}} {{Cameo}}
+* Mal &lt;small&gt;(Alya's friend)&lt;/small&gt; {{1st}}
 * [[Selina Kyle (Prime Earth)|Catwoman (Selina Kyle)]] {{Mentioned}}
-* [[Grodd II (Prime Earth)|Gorilla Grodd]] {{Mentioned}}
 * [[Justice League (Prime Earth)|Justice League]] {{Mentioned}}
-* [[Waylon Jones (Prime Earth)|Killer Croc (Waylon Jones)]] {{Mentioned}}
+** [[Michael Holt (Prime Earth)|Mister Terrific (Michael Holt)]] {{Mentioned}}
 * [[Legion of Doom (Prime Earth)|Legion of Doom]] {{Mentioned}}
+** [[Grodd II (Prime Earth)|Gorilla Grodd]] {{Mentioned}}
 * [[Baran Flinders (Prime Earth)|Mammoth (Baran Flinders)]] {{Mentioned}}
-* {{WP|House of Medici|Medicis}} {{Mentioned}}
-* {{WP|Michaelangelo}} {{Mentioned}}
-* [[Michael Holt (Prime Earth)|Mister Terrific (Michael Holt)]] {{Mentioned}}
 * [[Roy Harper (Prime Earth)|Roy Harper]] {{Mentioned}}
 * [[Shaggy Man (Prime Earth)|Shaggy Man]] {{Mentioned}}
 * [[Selinda Flinders (Prime Earth)|Shimmer (Selinda Flinders)]] {{Mentioned}}
-* [[Urzkartaga (Prime Earth)|Urzkartaga]] {{Mentioned}}
-* {{WP|Winnie the Pooh}} {{Mentioned}}
+* [[Urzkartaga (Prime Earth)|Urzkartaga]] {{Unnamed}} {{Mentioned}}
+* {{WP|Mark Twain}} {{Mentioned}}
+* {{WP|House of Medici|Medicis}} {{Mentioned}}
+* {{WP|Michelangelo}} {{Mentioned}}
+* {{WP|Winnie the Pooh}} {{Fictional}} {{Mentioned}}
 '''Locations:'''
 * {{a|[[Prime Earth|Earth 0]]}}
 ** {{a|[[Earth]]}}
 *** {{a|[[Italy]]}}
 **** {{a|[[Florence]]}}
+***** {{WP|Medici Chapels}}
 *** {{a|[[United States of America]]}}
+**** {{a|[[California]]}}
+***** {{a|[[Star City]]}} {{Unnamed}}
 **** {{a|[[Illinois]]}}
 ***** {{a|[[Hub City]]}}
 **** {{a|[[New Jersey]]}}
 ***** {{a|[[Atlantic City]]}}
 ** [[Justice League Satellite|Justice League Watchtower]] {{Mentioned}}
+* [[Sphere of the Gods]]
+** [[Hell]] {{Mentioned}}
 '''Items:'''
-* Liber Ivonis
+* "''Liber Ivonis''" {{1st}}
 '''Concepts:'''
+* {{a|[[Magic]]}}
 * {{a|[[Metahumans]]}}
 
 | Notes               = 
@@ -8072,7 +8090,1382 @@ Waller calls Oliver up to the control room and tells him that the war is coming 
 | Recommended         = 
 | Links               = 
 }}</text>
-      <sha1>79fr25jjzkpo7jarzpcj1dzdqjfv73f</sha1>
+      <sha1>lnhf2awl9a7qsatyhgp9nklxb6mn4i3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>New History of the DC Universe Vol 1 3</title>
+    <ns>0</ns>
+    <id>793416</id>
+    <revision>
+      <id>3824277</id>
+      <parentid>3824164</parentid>
+      <timestamp>2025-10-03T08:07:51Z</timestamp>
+      <contributor>
+        <username>Cmanigold</username>
+        <id>36766115</id>
+      </contributor>
+      <origin>3824277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="75640" sha1="1twbdchs2n93b10g5pbdhkhkjupnw87" xml:space="preserve">{{ComicBook
+| Title               = New History of the DC Universe
+| Image               = New History of the DC Universe Vol 1 3.jpg
+| Image2              = 
+| Image2Text          =
+| Image4              = New History of the DC Universe Vol 1 3 Textless Variant.jpg
+| Image4Text          =  Textless Variant
+| Image5              = New History of the DC Universe Vol 1 3 Textless Sook Variant.jpg
+| Image5Text          = Textless 1:25 Variant
+| Image6              = New History of the DC Universe Vol 1 3 Textless Kerschl Variant.jpg
+| Image6Text          = Textless Karl Kerschl  Variant
+| Image7              = New History of the DC Universe Vol 1 3 Textless Koblish Variant.jpg
+| Image7Text          = Textless Koblish Variant
+| Volume              = 1
+| Issue               = 3
+| Day                 = 24
+| Month               = 11
+| Year                = 2025
+| Rating              = T
+
+| Executive Editor    = Marie Javins
+| CoverArtist1        = Chris Samnee
+| CoverArtist2        = Giovanna Niro
+| Cover2Artist1       = Dan Mora
+| Cover3Artist1       = Ryan Sook
+| Cover4Artist1       = Scott Koblish
+| Cover4Artist2       = Hi-Fi
+| Cover5Artist1       = Frank Quitely
+| Cover6Artist1       = Karl Kerschl
+
+| Writer1_1           = Mark Waid
+| Penciler1_1         = Dan Jurgens
+| Penciler1_2         = Doug Mahnke
+| Inker1_1            = Norm Rapmund
+| Inker1_2            = Doug Mahnke
+| Colorist1_1         = John Kalisz
+| Colorist1_2         = David Baron
+| Letterer1_1         = Todd Klein
+| Editor1_1           = Brittany Holzherr
+| Editor1_2           = Andrew Marino
+| Editor1_3           = Marquis Draper
+
+| Writer2_1           = Dave Wielgosz
+| Penciler2_1         =
+| Inker2_1            = 
+| Colorist2_1         = 
+| Letterer2_1         = 
+| Editor2_1           =
+
+| Quotation           = 
+| Speaker             = 
+
+| StoryTitle1         = New History of the DC Universe
+| StoryTitle2         = New History of the DC Universe Timeline Part Three
+}}{{QuoteWithCat|[[Crisis on Infinite Earths Vol 1 8|After many years]], I was finally free of [[Speed Force|my prison]]... and would soon use that freedom [[Flashpoint (event)|to destroy all there is]].|[[Barry Allen (Prime Earth)|Barry Allen]]}}
+
+'''''New History of the DC Universe #3''''' is an issue of the series {{v|New History of the DC Universe Vol 1}} with a cover date of [[:Category:2025, November|November, 2025]]. It was published on September 24, 2025.
+
+==Synopsis for "New History of the DC Universe"==
+{{Stub}}
+
+==Appearing in "New History of the DC Universe"==
+'''Featured Characters:'''
+* {{a|[[Barry Allen (Prime Earth)|The Flash (Barry Allen)]]}} {{Flashalso}} {{Narrator}}
+* {{a|[[Justice Society of America (Prime Earth)|JSA]]}} {{Flashback}}
+** {{a|[[Albert Rothstein (Prime Earth)|Atom Smasher (Al Rothstein)]]}}
+** {{a|[[Grant Emerson (Prime Earth)|Damage (Grant Emerson)]]}}
+** {{a|[[Pieter Cross (Prime Earth)|Doctor Mid-Nite (Pieter Cross)]]}}
+** {{a|[[Kendra Saunders (Prime Earth)|Hawkgirl (Kendra Saunders)]]}}
+** {{a|[[Richard Tyler (Prime Earth)|Hourman (Rick Tyler)]]}}
+** {{a|[[Jesse Chambers (Prime Earth)|Jesse Quick/Liberty Belle (Jesse Chambers)]]}}
+** {{a|[[Jakeem Williams (Prime Earth)|Jakeem Thunder (Jakeem Williams)]]}}
+*** {{a|[[Yz (Prime Earth)|Yz the Thunderbolt (Post-Flashpoint)]]}}
+** {{a|[[Michael Holt (Prime Earth)|Mister Terrific (Michael Holt)]]}}
+** {{a|[[Kara Zor-L (Prime Earth)|Power Girl/Kara Zor-L (Post-Flashpoint)]]}}
+** {{a|[[Sanderson Hawkins (Prime Earth)|Sand (Sanderson Hawkins)]]}}
+** {{a|[[Courtney Whitmore (Prime Earth)|Stargirl]]}}
+** {{a|[[Patrick Dugan (Prime Earth)|S.T.R.I.P.E. (Pat Dugan)]]}}
+* {{a|[[Justice League International (Prime Earth)|Justice League International]]}} {{Flashback}}
+** {{a|[[Theodore Kord (Prime Earth)|Blue Beetle (Ted Kord)]]}} {{Flashback Dies}}
+** {{a|[[Michael Carter (Prime Earth)|Booster Gold/Michael Carter (Post-Flashpoint)]]}} 
+** {{a|[[Nathaniel Adam (Prime Earth)|Captain Atom (Nathaniel Adam)]]}}
+** {{a|[[Beatriz da Costa (Prime Earth)|Fire (Beatriz da Costa)]]}}
+** {{a|[[Guy Gardner (Prime Earth)|Green Lantern (Guy Gardner)]]}}
+** {{a|[[Tora Olafsdotter (Prime Earth)|Ice (Tora Olafsdotter)]]}}
+** {{a|[[Scot (Prime Earth)|Mister Miracle/Scott Free (Post-Flashpoint)]]}}
+** {{a|[[Dmitri Pushkin (Prime Earth)|Rocket Red (Dmitri Pushkin)]]}}
+* {{a|[[Justice League (Prime Earth)|Justice League of America/Justice League]]}} {{Flashback}} 
+** {{a|[[Arthur Curry (Prime Earth)|Aquaman (Arthur Curry)]]}}
+** {{a|[[Uno (Prime Earth)|Aztek (Uno)]]}}
+** {{a|[[Bruce Wayne (Prime Earth)|Batman (Bruce Wayne)]]}}
+** {{a|[[Big Barda (Prime Earth)|Big Barda]]}}
+** {{a|[[Wally West (Prime Earth)|The Flash (Wally West)]]}} 
+** {{a|[[Connor Hawke (Prime Earth)|Green Arrow (Connor Hawke)]]}}
+** {{a|[[Oliver Queen (Prime Earth)|Green Arrow (Oliver Queen)]]}}
+** {{a|[[John Stewart (Prime Earth)|Green Lantern (John Stewart)]]}}
+** {{a|[[Kyle Rayner (Prime Earth)|Green Lantern (Kyle Rayner)]]}}
+** {{a|[[Hal Jordan (Prime Earth)|Green Lantern/The Spectre/Parallax (Hal Jordan)]]}} {{Blue|[[Parallax (Prime Earth)|Possessed]]}} {{Green|Also bound to [[Aztar (Prime Earth)|Aztar]]}} {{Flashback Dies}} {{Green|Resurrected in flashback}}
+** {{a|[[J'onn J'onzz (Prime Earth)|Martian Manhunter (J'onn J'onzz)]]}}
+** {{a|[[Patrick O'Brian (Prime Earth)|Plastic Man (Patrick O'Brian)]]}}
+** {{a|[[John Henry Irons (Prime Earth)|Steel (John Henry Irons)]]}}
+** {{a|[[Kal-El (Prime Earth)|Superman (Clark Kent)]]}}
+** {{a|[[Diana of Themyscira (Prime Earth)|Wonder Woman (Diana of Themyscira)]]}}
+'''Supporting Characters:'''
+* {{a|[[Ryan Choi (Prime Earth)|The Atom (Ryan Choi)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Jean-Paul Valley (Prime Earth)|Azrael/Batman (Jean-Paul Valley)]]}} {{Flashback}}
+* {{a|[[Barbara Gordon (Zero Hour)|Batgirl/Barbara Gordon (Splinterverse)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Batman Family|Bat-Family]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Cassandra Cain (Prime Earth)|Batgirl (Cassandra Cain)]]}}
+** {{a|[[Katherine Kane (Prime Earth)|Batwoman (Kate Kane)]]}}
+** {{a|[[Stephanie Brown (Prime Earth)|Spoiler (Stephanie Brown)]]}}
+* {{a|[[Birds of Prey (Prime Earth)|Birds of Prey]]}} {{Flashback}}
+** {{a|[[Dinah Drake (Prime Earth)|Black Canary (Dinah Laurel Drake-Lance)]]}}
+** {{a|[[Helena Bertinelli (Prime Earth)|Huntress (Helena Bertinelli)]]}}
+** {{a|[[Zinda Blake (Prime Earth)|Lady Blackhawk (Zinda Blake)]]}}
+** {{a|[[Barbara Gordon (Prime Earth)|Oracle/Batgirl (Barbara Gordon)]]}}
+* {{a|[[Blood Syndicate (Prime Earth)|Blood Syndicate]]}} {{1st}} {{Flashback}} {{Cameo}}
+** {{a|[[Carlos Quinones (Prime Earth)|Fade]]}} {{1st}}
+** {{a|[[Rolando Texador (Prime Earth)|Tech-9]]}} {{1st}} 
+** {{a|[[Hannibal White (Prime Earth)|Wise Son]]}} {{1st}}
+* {{a|[[Jaime Reyes (Prime Earth)|Blue Beetle (Jaime Reyes)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Billy Batson (Prime Earth)|The Captain (Billy Batson)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Doom Patrol (Prime Earth)|Doom Patrol]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Niles Caulder (Prime Earth)|The Chief (Niles Caulder)]]}}
+** {{a|[[Arani Desai (Prime Earth)|Celsius (Arani Desai)]]}}
+** {{a|[[Kay Challis (Prime Earth)|Crazy Jane]]}}
+** {{a|[[Dorothy Spinner (Prime Earth)|Dorothy Spinner]]}}
+** {{a|[[Rita Farr (Prime Earth)|Elasti-Girl (Rita Farr)]]}}
+** {{a|[[Wayne Hawkins (Prime Earth)|Karma (Wayne Hawkins)]]}}
+** {{a|[[Rhea Jones (Prime Earth)|Lodestone (Rhea Jones)]]}}
+** {{a|[[Lawrence Trainor (Prime Earth)|Negative Man (Larry Trainor)]]}}
+** {{a|[[Valentina Vostok (Prime Earth)|Negative Woman (Valentina Vostok)]]}}
+** {{a|[[Rebis (Prime Earth)|Rebis]]}}
+** {{a|[[Scott Fischer (Prime Earth)|Scorch (Scott Fischer)]]}}
+** {{a|[[Clifford Steele (Prime Earth)|Robotman (Cliff Steele)]]}}
+** {{a|[[Joshua Clay (Prime Earth)|Tempest (Josh Clay)]]}}
+* {{a|[[Dawn Granger (Prime Earth)|Dove (Dawn Granger)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Gotham City Police Department]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Harvey Bullock (Prime Earth)|Det. Harvey Bullock]]}}
+* {{a|[[Green Lantern Corps (Prime Earth)|Green Lantern Corps]]}} {{Flashback}}
+** {{a|[[G'nort (Prime Earth)|G'nort]]}}
+* {{a|[[Curtis Metcalf (Prime Earth)|Hardware (Curtis Metcalf)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Augustus Freeman (Prime Earth)|Icon (Arnus of Terminus/Augustus Freeman)]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Raquel Ervin (Prime Earth)|Rocket (Raquel Ervin)]]}} {{1st}} {{Flashback}} {{Cameo}}
+* {{a|[[Justice Legion (DC One Million)]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Aquaman (DC One Million)|Aquaman]]}}
+** {{a|[[Batman (DC One Million)|Batman]]}}
+** {{a|[[Jonathan Fox (New Earth)|The Flash (John Fox)]]}}
+** {{a|[[Matthew Tyler (New Earth)|Hourman (Matthew Tyler)]]}}
+** {{a|[[Kal Kent (DC One Million)|Superman (Kal Kent)]]}}
+** {{a|[[Wonder Woman (DC One Million)|Wonder Woman]]}}
+* {{a|[[Justice League Europe (Prime Earth)|Justice League Europe]]}} {{Flashback}}
+** {{a|[[Bernhard Baker (Prime Earth)|Animal Man (Buddy Baker)]]}}
+** {{a|[[Ralph Dibny (Prime Earth)|Elongated Man (Ralph Dibny)]]}}
+** {{a|[[Rex Mason (Prime Earth)|Metamorpho (Rex Mason)]]}}
+* {{a|[[Linear Men (Prime Earth)|Linear Men (Post-Flashpoint)]]}} {{Flashback}}
+** {{a|[[Liri Lee (Prime Earth)|Liri Lee]]}}
+** {{a|[[Rip Hunter (Prime Earth)|Rip Hunter]]}}
+** {{a|[[Matthew Ryder (Prime Earth)|Waverider (Matthew Ryder)]]}}
+* {{a|[[Lois Lane (Prime Earth)|Lois Lane]]}} {{Flashback}}
+* {{a|[[Shilo Norman (Prime Earth)|Mister Miracle (Shilo Norman)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Nix Uotan (Prime Earth)|Nix Uotan the Superjudge (Post-Flashpoint)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Outsiders II (Prime Earth)|The Outsiders]]}} {{Flashback}}
+** {{a|[[Roy Harper (Prime Earth)|Arsenal (Roy Harper)]]}}
+** {{a|[[Grace Choi (Prime Earth)|Grace Choi]]}}
+** {{a|[[Brion Markov (Prime Earth)|Geo-Force (Brion Markov)]]}}
+** {{a|[[Brainiac 8 (Prime Earth)|Indigo (Brainiac 8)]]}}
+** {{a|[[Jennifer-Lynn Hayden (Prime Earth)|Jade (Jennifer-Lynn Hayden)]]}}
+** {{a|[[Richard Grayson (Prime Earth)|Nightwing (Dick Grayson)]]}}
+** {{a|[[Koriand'r (Prime Earth)|Starfire (Koriand'r)]]}}
+** {{a|[[Anissa Pierce (Prime Earth)|Thunder (Anissa Pierce)]]}}
+* {{a|[[Renee Montoya (Prime Earth)|The Question (Renee Montoya)]]}} {{Flashback}}
+* {{a|[[Raymond Terrill (Prime Earth)|The Ray (Ray Terrill)]]}} {{Flashback}}
+* {{a|[[Jason Todd (Prime Earth)|Red Hood/Robin (Jason Todd)]]}} {{Flashback}} {{Flashback Dies}} {{Green|Resurrected in flashback}}
+* {{a|[[Damian Wayne (Prime Earth)|Robin (Damian Wayne)]]}} {{Flashback}}
+* {{a|[[Shadowpact (Prime Earth)|Shadowpact]]}} {{Flashback}}
+** {{a|[[Daniel Cassidy (Prime Earth)|Blue Devil (Daniel Cassidy]]}}
+** {{a|[[Bobo T. Chimpanzee (Prime Earth)|Detective Chimp]]}}
+** {{a|[[Enchantress (Prime Earth)|Enchantress]]}} {{a|[[June Moone (Prime Earth)|(June Moone)]]}}
+** {{a|[[Eve Eden (Prime Earth)|Nightshade (Eve Eden)]]}}
+** {{a|[[Rory Regan (Prime Earth)|Ragman (Rory Regan)]]}}
+** {{a|[[Zauriel (Prime Earth)|Zauriel]]}} 
+* {{a|[[Skeets (Prime Earth)|Skeets (Post-Flashpoint)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Sonny Sumo (Prime Earth)|Sonny Sumo (Post-Flashpoint)]]}} {{1stUnnamed}} {{Flashback}} {{Cameo}}
+* {{a|[[Aztar (Prime Earth)|The Spectre/Aztar (Post-Flashpoint)]]}} {{Green|Bound to [[Hal Jordan (Prime Earth)|Hal Jordan]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Jack Knight (Prime Earth)|Starman (Jack Knight)]]}}{{Flashback}} {{Cameo}}
+* {{a|[[Virgil Hawkins (Prime Earth)|Static (Virgil Hawkins)]]}} {{Flashback}}
+* {{a|[[Natasha Irons (Prime Earth)|Steel (Natasha Irons)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Kara Zor-El (Prime Earth)|Supergirl (Kara Zor-El)]]}} {{Flashback}} {{Green|Resurrected in flashback}}
+* {{a|[[Kal-L (Earth-Two)|Superman/Clark Kent (Earth-Two)]]}} {{Flashback Dies}}
+* {{a|[[Super Young Team (Prime Earth)|Super Young Team]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Big Atomic Lantern Boy (Prime Earth)|Big Atomic Lantern Boy]]}} 
+** {{a|[[Crazy Shy Lolita Canary (Prime Earth)|Crazy Shy Lolita Canary]]}} 
+** {{a|[[Heino Okata (Prime Earth)|Most Excellent Super Bat]]}} {{1stUnnamed}}
+** {{a|[[Kim Kimura (Prime Earth)|Shiny Happy Aquazon]]}} 
+** {{a|[[Well-Spoken Sonic Lightning Flash (Prime Earth)|Well-Spoken Sonic Lightning Flash]]}} 
+* {{a|[[Teen Titans (Prime Earth)|Teen Titans]]}} {{Flashback}}
+** {{a|[[Garfield Logan (Prime Earth)|Beast Boy (Garfield Logan)]]}}
+** {{a|[[Victor Stone (Prime Earth)|Cyborg (Victor Stone)]]}}
+** {{a|[[Rose Wilson (Prime Earth)|Ravager (Rose Wilson)]]}}
+** {{a|[[Raven (Prime Earth)|Raven]]}}
+** {{a|[[Edward Bloomberg (Prime Earth)|Red Devil (Edward Bloomberg)]]}}
+** {{a|[[Mia Dearden (Prime Earth)|Speedy (Mia Dearden)]]}}
+* {{a|[[Matthew Ryder (Armageddon 2001)|Waverider/Matthew Ryder (Armageddon 2001)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Young Justice (Prime Earth)|Young Justice]]}} {{Flashback}}
+** {{a|[[Cissie King-Jones (Prime Earth)|Arrowette (Cissie King-Jones)]]}}
+** {{a|[[Bart Allen (Prime Earth)|Impulse/Bart Allen (Post-Flashpoint)]]}}
+** {{a|[[Timothy Drake (Prime Earth)|Robin (Tim Drake)]]}} 
+** {{a|[[Greta Hayes (Prime Earth)|Secret (Greta Hayes)]]}}
+** {{a|[[Kon-El (Prime Earth)|Superboy (Conner Kent)]]}}
+** {{a|[[Cassandra Sandsmark (Prime Earth)|Wonder Girl (Cassie Sandsmark)]]}}
+'''Antagonists:'''
+* {{a|[[Alexander Luthor, Jr. (Earth-Three)|Alex Luthor Jr. (Earth-Three)]]}} {{Flashback}} {{Cameo}} 
+* {{a|[[Alien Alliance]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Citadel|The Citadel]]}}
+*** {{a|[[Citadelians]]}}
+** {{a|[[Dominators]]}}
+** {{a|[[Durlans]]}}
+** {{a|[[Khunds]]}}
+** {{a|[[Psions]]}}
+** {{a|[[Okaarans|Warlords of Okaara]]}}
+* {{a|[[Alva Technologies|Alva Industries]]}} {{1st}} {{Flashback}} {{Cameo}}
+** {{a|[[Edwin Alva (Prime Earth)|Edwin Alva]]}} {{1st}}
+* {{a|[[Amanda Waller (Prime Earth)|Amanda Waller]]}} {{Flashback}}
+** {{a|[[Sargent Steel (Prime Earth)|Sarge Steel]]}} {{Flashback}}
+** {{a|[[Suicide Squad (Prime Earth)|Task Force X]]}} {{Flashback}}
+*** {{a|[[Christopher Smith (Prime Earth)|Peacemaker (Christopher Smith)]]}}
+** {{a|[[Wade Eiling (Prime Earth)|General Wade Eiling]]}} {{Blue|Mutated}}
+* {{a|[[Bane (Prime Earth)|Bane]]}} {{Flashback}}
+* {{a|[[Henry Henshaw (Prime Earth)|Cyborg Superman (Hank Henshaw)]]}} {{Flashback}}
+* {{a|[[Darkseid (Prime Earth)|Darkseid (Post-Flashpoint)]]}} {{Flashback}}
+** {{a|[[Daniel Turpin (Prime Earth)|Dan Turpin]]}} {{Possessed}}
+** {{a|[[Justifiers|Justifiers (Post-Flashpoint)]]}} {{1st}} {{Flashback}}
+* {{a|[[Doomsday (Prime Earth)|Doomsday]]}} {{Flashback}}
+* {{a|[[Eradicator II (Prime Earth)|Eradicator]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Gotham Organized Crime]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Harleen Quinzel (Prime Earth)|Harley Quinn (Harleen Quinzel)]]}} {{Flashback}}
+* {{a|[[Thomas Elliot (Prime Earth)|Hush (Thomas Elliot)]]}} {{Flashback}}
+* {{a|[[Joker (Prime Earth)|Joker]]}} {{Flashback}}
+* {{a|[[Alexander Luthor (Prime Earth)|President Lex Luthor]]}} {{Flashback}}
+* {{a|[[Manchester Black (Prime Earth)|Manchester Black]]}} {{Flashback}}
+* {{a|[[Monitor Dax Novu|Mandrakk the Dark Monitor]]}} {{Green|In [[Monitor Rox Ogama]]'s body}} {{Flashback}}
+** {{a|[[Monitor Rox Ogama]]}} {{Possessed}} {{Flashback}}
+* {{a|[[Maxwell Lord IV (Prime Earth)|Maxwell Lord]]}} {{Flashback}}
+** {{a|[[Checkmate (Prime Earth)|Checkmate]]}} {{Mentioned}}
+** {{a|[[Omni Mind and Community|O.M.A.C.s]]}} {{Flashback}}
+* {{a|[[Henry Hall (Prime Earth)|Monarch/Extant/Hawk (Hank Hall)]]}} {{Flashback}}
+* {{a|[[Nekron (Prime Earth)|Nekron]]}} {{Flashback}}
+** {{a|[[William Hand (Prime Earth)|Black Hand (William Hand)]]}} {{Flashback}}
+** [[Black Lantern Corps (Prime Earth)|Black Lantern Corps]] {{Flashback}} {{BTS}}
+* {{a|[[Larfleeze (Prime Earth)|Orange Lantern (Larfleeze)]]}} {{Flashback}} {{Cameo}} 
+* {{a|[[Parallax (Prime Earth)|Parallax]]}} {{Green|In [[Green Lantern (Hal Jordan)|Hal Jordan's]] body}}
+* [[Ra's al Ghul (Prime Earth)|Ra's al Ghul]] {{Flashback}} {{BTS}}
+* [[Red Lantern Corps (Prime Earth)|Red Lantern Corps]] {{BTS}}
+** {{a|[[Atros (Prime Earth)|Atrocitus]]}} {{Flashback}} {{Cameo}} 
+* {{a|[[Secret Six (Prime Earth)|Secret Six]]}} {{Flashback}}
+** {{a|[[Lori Zechlin (Prime Earth)|Black Alice (Lori Zechlin)]]}}
+** {{a|[[Thomas Blake (Prime Earth)|Catman (Thomas Blake)]]}}
+** {{a|[[Jade Nguyen (Prime Earth)|Cheshire (Jade Nguyen)]]}}
+** {{a|[[Floyd Lawton (Prime Earth)|Deadshot (Floyd Lawton)]]}}
+** {{a|[[Peter Merkel, Jr. (Prime Earth)|Ragdoll (Peter Merkel, Jr.)]]}}
+** {{a|[[Scandal Savage (Prime Earth)|Scandal Savage]]}}
+* {{a|[[Thaal Sinestro (Prime Earth)|Sinestro]]}} {{Flashback}}
+** {{a|[[Sinestro Corps (Prime Earth)|Sinestro Corps]]}} {{Flashback}} {{Cameo}}
+*** {{a|[[Arkillo (Prime Earth)|Arkillo]]}}
+*** {{a|[[Bedovian (Prime Earth)|Bedovian]]}}
+*** {{a|[[Bratha (Prime Earth)|Bratha]]}}
+*** {{a|[[Bur'Gunza (Prime Earth)|Bur'Gunza]]}}
+*** {{a|[[Karu-Sil (Prime Earth)|Karu-Sil]]}}
+*** {{a|[[Low (Prime Earth)|Low]]}}
+*** {{a|[[Lyssa Drak (Prime Earth)|Lyssa Drak]]}}
+*** {{a|[[Maash (Prime Earth)|Maash]]}}
+*** {{a|[[Romat-Ru (Prime Earth)|Romat-Ru]]}}
+*** {{a|[[Slushh (Prime Earth)|Slushh]]}}
+*** {{a|[[Tekik (Prime Earth)|Tekik]]}}
+*** {{a|[[Tri-Eye (Prime Earth)|Tri-Eye]]}}
+* {{a|[[Solaris (DC One Million)|Solaris the Tyrant Sun (DC One Million)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Suicide Squad (Prime Earth)|Suicide Squad]]}} {{Flashback}}
+** {{a|[[Benjamin Turner (Prime Earth)|Bronze Tiger (Ben Turner)]]}}
+** {{a|[[George Harkness (Prime Earth)|Captain Boomerang (Digger Harkness)]]}}
+** {{a|[[Werner Zytle (Prime Earth)|Count Vertigo (Werner Zytle)]]}}
+** {{a|[[Thomas Tresser (Prime Earth)|Nemesis (Thomas Tresser)]]}}
+** {{a|[[Richard Flag, Jr. (Prime Earth)|Col. Rick Flag Jr.]]}}
+* [[Sun-Eaters]] {{Flashback}} {{BTS}}
+* {{a|[[Kal-El (Earth-Prime)|Superboy-Prime (Earth-Prime)]]}} {{Flashback}}
+* {{a|[[Dru-Zod (Prime Earth)|General Zod]]}} {{Flashback}}
+** {{a|[[Non (Prime Earth)|Non]]}}
+** {{a|[[Ursa (Prime Earth)|Ursa]]}}
+'''Other Characters:'''
+* {{a|[[Bro'Dee Walker (Prime Earth)|Blue Lantern (Saint Walker)]]}} {{Flashback}} {{Cameo}} 
+* {{a|[[Thomas Monaghan (Prime Earth)|Hitman (Tommy Monaghan)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Indigo Tribe (Prime Earth)|Indigo Tribe]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Iroque (Prime Earth)|Indigo-1]]}}
+** {{a|[[Munk (Prime Earth)|Munk]]}}
+* {{a|[[Jonathan Samuel Kent (Prime Earth)|Jonathan Samuel Kent]]}} {{Flashback}} {{Cameo}}
+* {{a|[[L.E.G.I.O.N. (Prime Earth)|L.E.G.I.O.N.]]}} {{Flashback}} {{Cameo}}
+** {{a|[[Vril Dox II (Prime Earth)|Brainiac II (Vril Dox)]]}}
+** {{a|[[Davroth Catto (Prime Earth)|Davroth Catto]]}}
+** {{a|[[Lyrissa Mallor (Prime Earth)|Lyrissa Mallor]]}}
+** {{a|[[Stealth (Prime Earth)|Stealth]]}}
+** {{a|[[Strata (Prime Earth)|Strata]]}}
+* {{a|[[Legion of Super-Heroes (Pre-Zero Hour)]]}} {{Vision}} {{Cameo}}
+** {{a|[[Rokk Krinn (Pre-Zero Hour)|Cosmic Boy]]}}
+** {{a|[[Garth Ranzz (Pre-Zero Hour)|Lightning Lad]]}}
+** {{a|[[Imra Ardeen (Pre-Zero Hour)|Saturn Girl]]}}
+* {{a|[[Lois Lane (Earth-Two)|Lois Lane-Kent (Earth-Two)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Sarah Essen (Prime Earth)|Sarah Essen-Gordon]]}} {{Flashback Dies}}
+* {{a|[[William Payton (Prime Earth)|Starman (Will Payton)]]}} {{Flashback}} {{Cameo}}
+* {{a|[[Star Sapphire Corps (Prime Earth)|Star Sapphire Corps]]}} {{Flashback}}
+** {{a|[[Miri Riam (Prime Earth)|Miri Riam]]}} {{Cameo}}
+* {{a|[[Susan Dearbon (Prime Earth)|Sue Dibny]]}} {{Flashback Dies}}
+* [[Amazons of Themyscira]] {{Mentioned}}
+* [[Anti-Monitor (Antimatter Universe)|The Anti-Monitor (Pre-Flashpoint)]] {{Mentioned}}
+* [[Albert Pratt (Prime Earth)|The Atom (Al Pratt)]] {{Mentioned}}
+* [[Bloodlines Parasites]] {{Mentioned}}
+* [[Arthur Brown (Prime Earth)|Cluemaster]] {{Mentioned}}
+* [[Arthur Light (Prime Earth)|Doctor Light (Arthur Light)]] {{Mentioned}}
+* [[Donna Troy (Prime Earth)|Donna Troy]] {{Mentioned}}
+* [[Donald Hall (Prime Earth)|Dove (Don Hall)]] {{Deceased}} {{Mentioned}}
+* [[The Elite (Prime Earth)|The Elite]] {{Mentioned}}
+* [[Gavyn (Prime Earth)|Prince Gavyn]] {{Mentioned}}
+* [[Genies]] {{Mentioned}}
+* [[Guardians of the Universe (Prime Earth)|Guardians of the Universe]] {{Mentioned}}
+* [[Rex Tyler (Prime Earth)|Hourman (Rex Tyler)]] {{Mentioned}}
+* [[Jean Loring (Prime Earth)|Jean Loring]] {{Mentioned}}
+* [[Jonathan Chambers (Prime Earth)|Johnny Quick]] {{Mentioned}}
+* [[John Thunder (Prime Earth)|Johnny Thunder]] {{Mentioned}}
+* [[Sandra Wu-San (Prime Earth)|Lady Shiva]] {{Mentioned}}
+* [[Elizabeth Lawrence (Prime Earth)|Liberty Belle (Libby Lawrence)]] {{Mentioned}}
+* [[Henry Hall (Armageddon 2001)|Monarch (Armageddon 2001)]] {{Mentioned}}
+* [[Mongul (Prime Earth)|Mongul MDCCXCI]] {{Mentioned}}
+* [[Monitors|The Monitors (Post-Flashpoint)]] {{Mentioned}}
+* [[Victor Sage (Prime Earth)|The Question (Vic Sage)]] {{Mentioned}}
+* [[Langford Terrill (Prime Earth)|The Ray (Happy Terrill)]] {{Mentioned}}
+* [[Red Tornado (Prime Earth)|Red Tornado]] {{Mentioned}}
+* [[Shiera Sanders (Prime Earth)|Shiera Sanders]] {{Mentioned}}
+* [[Communist Party|Soviets]] {{Mentioned}}
+* [[Supermen of the Multiverse]] {{Mentioned}}
+* [[Talia al Ghul (Prime Earth)|Talia al Ghul]] {{Mentioned}}
+* [[Theodore Knight (Prime Earth)|Ted Knight]] {{Mentioned}}
+* [[United States Government|U.S. Government]] {{Mentioned}}
+* [[Vandal Savage (DC One Million)]] {{Mentioned}}
+* [[Mamaragan (Prime Earth)|The Wizard Shazam (Post-Flashpoint)]] {{Mentioned}}
+* [[Zombies]] {{Mentioned}}
+'''Locations:'''
+* {{a|[[Hypertime]]}}
+** {{a|[[DC One Million]]}} {{Flashback}}  
+*** {{a|[[853rd Century]]}}
+** {{a|[[Post-Zero Hour|Earth-247/Post-Zero Hour Legion's Future]]}} {{Vision}}
+*** {{a|[[31st Century]]}}
+**** {{a|[[Earth]]}}
+***** {{a|[[Legion of Super-Heroes Headquarters]]}} {{Cameo}}
+** {{a|[[Timestream]]}} {{Flashback}}
+*** {{a|[[Prehistoric Era]]}}
+*** {{a|[[Middle Ages]]}}
+*** {{a|[[19th Century]]}}
+**** {{a|[[American Old West]]}}
+*** {{a|[[20th Century]]}}
+** {{a|[[Vanishing Point]]}} {{Flashback}} {{Cameo}}
+** [[Armageddon 2001|Armageddon 2001 Future]] {{Unnamed}} {{Mentioned}}
+** [[Post-Flashpoint]] Bart Allen's Future {{Unnamed}} {{Mentioned}}
+** [[Post-Flashpoint]] Booster Gold's Future {{Unnamed}} {{Mentioned}}
+*** [[25th Century]] {{Mentioned}} 
+* [[The Infinite Frontier]] {{Unnamed}} {{BTS}}
+** [[Interregnum Multiverse]] {{Flashback}} {{Erased}} 
+** [[Multiverse-1]] {{BTS}}
+*** {{a|[[Prime Earth|Earth 0]]}}
+**** {{a|[[Sector 1313]]}}
+***** {{a|[[Xanshi]]}} {{Flashback}} {{Destroyed}}
+**** {{a|[[Sector 2814]]}}
+***** [[Brother Eye (Prime Earth)|Brother Eye]] {{Flashback}} {{BTS}}
+***** {{a|[[Earth]]}}
+****** {{a|[[Arctic Circle]]}}
+******* {{a|[[Fortress of Solitude]]}} {{Flashback}}
+****** {{a|[[Switzerland]]}}
+******* {{a|[[Alps]]}}
+******** {{a|[[Checkmate Headquarters]]}} {{Flashback}}
+****** {{a|[[United States of America]]}} {{Flashback}}
+******* {{a|[[California]]}}
+******** {{a|[[Star City]]}} {{Cameo}}
+******** [[Coast City]] {{Mentioned}}
+******* {{a|[[Dakota City]]}}
+******** {{a|[[Paris Island]]}}
+******* {{a|[[Maryland]]}}
+******** {{a|[[Opal City]]}} {{Cameo}}
+******* {{a|[[New Jersey]]}}
+******** {{a|[[Gotham City]]}}
+********* Barbara Gordon's Apartment {{Cameo}}
+********* {{a|[[Gotham Clock Tower]]}} {{Cameo}}
+********* {{a|[[Noonan's Bar]]}} {{Cameo}}
+********* {{a|[[Wayne Manor]]}} {{Cameo}}
+******* {{a|[[New York]]}}
+******** {{a|[[Metropolis]]}}
+********* {{a|[[Daily Planet]]}} {{Cameo}}
+********* {{a|[[LexCorp|LexCorp Tower]]}} {{Cameo}}
+******* {{a|[[Philadelphia]]}}
+******** {{a|[[Pennsylvania]]}} {{Cameo}}
+******* [[Nebraska]] {{Mentioned}}
+******** [[Blue Valley]] {{Mentioned}}
+******* [[Rhode Island]] {{Unnamed}}
+******** [[Happy Harbor]] {{Unnamed}}
+********* [[Mount Justice]] {{BTS}}
+********** {{a|[[Secret Sanctuary]]}} {{Cameo}}
+******* [[Ivy Town]] {{Mentioned}}
+******* [[Louisiana]]
+******** [[Belle Reve]] {{Mentioned}}
+******* [[Texas]] {{Mentioned}}
+******** [[El Paso]] {{Mentioned}}
+****** [[Brazil]] {{Mentioned}}
+****** [[Norway]] {{Mentioned}}
+***** [[Earth's Moon]] {{BTS}}
+****** {{a|[[Justice League Watchtower]]}} {{Cameo}}
+***** {{a|[[Solar System|The Sun]]}} {{Flashback}} {{Cameo}}
+***** [[Terminus (planet)|Terminus]] {{Mentioned}}
+**** [[Kranaltine]] {{Mentioned}}
+**** [[Sector 68]] {{Mentioned}}
+**** [[Sector 2813]] {{Unnamed}}
+***** [[Krypton]] {{Destroyed}} {{Mentioned}}
+***** [[Zamaron]] {{Mentioned}}
+**** [[Sector 2828]]
+***** [[Citadel Homeworld]] {{Mentioned}}
+*** {{a|[[Speed Force]]}}
+*** {{a|[[Sphere of the Gods]]}} {{BTS}}
+**** {{a|[[Apokolips]]}} {{Flashback}} {{Cameo}}
+**** [[Underworld]] {{Unnamed}}
+***** [[Phantom Zone]] {{Mentioned}}
+** [[Pre-Flashpoint Multiverse]] {{Unnamed}} 
+*** [[Orrery of Worlds]] {{Flashback}} {{Origin}} {{BTS}}
+*** {{a|[[Paradise Dimension]]}} {{Flashback}} {{Cameo}}
+** [[Multiverse-2]] {{Erased}}
+*** [[Earth-Two|Earth-2/Earth-Two]] {{Destroyed}} {{Mentioned}}
+*** [[Earth-Three|Earth-3/Earth-Three]] {{Destroyed}} {{Mentioned}}
+*** [[Earth-Prime]] {{Destroyed}} {{Mentioned}}
+'''Items:'''
+* Aztek's Battlesuit {{Flashback}} 
+* {{a|[[Batsuit]]s}} {{Flashback}} 
+** {{a|[[Batrope]]}}
+** {{a|[[Utility Belt]]s}}
+* {{a|[[Bio-Belt]]s}} {{Flashback}} 
+* {{a|[[Khaji Da (Prime Earth)|Blue Beetle Scarab]]}} {{Flashback}} 
+* {{a|[[Bracelets of Submission]]}} {{Flashback}} 
+* [[Brain Bomb]]s {{Mentioned}}
+* {{a|[[Cosmic Staff]]}} {{Flashback}}
+* Doctor Mid-Nite's Goggles {{Flashback}}
+* {{a|[[Element X]]}}
+** {{a|[[Mega-Rod]]}} {{Flashback}} 
+** {{a|[[Miracle Machine]]}} {{Flashback}} 
+* [[Gene Bomb]] {{Mentioned}}
+* Green Arrow's Bow {{Flashback}} 
+** {{a|[[Trick Arrows]]}}
+* {{a|[[Hardware Armor]]}} {{Flashback}} 
+* Harpoon-Hand {{Flashback}} 
+* {{a|[[Helmet of Aztek]]}} {{Flashback}} 
+* Hourman's Hourglass {{Flashback}} 
+** {{a|[[Miraclo]]}} {{BTS}}
+* {{a|[[Huntress' Crossbow]]}} {{Flashback}} 
+* {{a|[[Inertia Belt]]}} {{Flashback}}
+* {{a|[[Kinetic Hammer]]}} {{Flashback}} 
+* {{a|[[Kryptonian Regeneration Matrix]]}} {{Flashback}}
+* [[Lantern Ring]]s {{Flashback}} 
+** {{a|[[Black Lantern Ring]]}}
+** {{a|[[Blue Lantern Ring]]}}
+** {{a|[[Green Lantern Ring]]s}}
+** {{a|[[Indigo Lantern Ring]]}}
+** {{a|[[Orange Lantern Ring]]}}
+** {{a|[[Red Lantern Ring]]}}
+** {{a|[[Star Sapphire Ring]]}}
+** {{a|[[Yellow Lantern Ring]]s}}
+* {{a|[[Lasso of Truth]]}} {{Flashback}} 
+* Nekron's Scythe {{Flashback}} 
+* {{a|[[Nth Metal]]}} {{Flashback}} 
+** {{a|[[Thanagarian Mace|Hawkgirl's Mace]]}}
+* {{a|[[Orange Lantern Power Battery]]}} {{Flashback}} 
+* {{a|[[Quantum Juice|Q-Juice]]}} {{Flashback}} 
+* {{a|[[Question's Mask]]}} {{Flashback}} 
+* {{a|[[Radion Gun]]}} {{Flashback}} 
+** {{a|[[Radion (material)|Radion Bullet]]}}
+* {{a|[[Rocket Red Armor]]}} {{Flashback}} 
+* Sand's Mask {{Flashback}} 
+* {{a|[[Steel's Armor]]}} {{Flashback}} 
+* {{a|[[S.T.R.I.P.E. Armor]]}} {{Flashback}} 
+* {{a|[[Suit of Sorrows]]}} {{Flashback}} 
+* {{a|[[Suit of Souls]]}} {{Flashback}} 
+* Superboy-Prime's Armor {{Flashback}} 
+* {{a|[[Super-Computer]]}} {{Flashback}} 
+* {{a|[[Superman's Costume|Superman's Recovery Suit]]}} {{Flashback}} 
+* {{a|[[Trick Boomerangs]]}} {{Flashback}} 
+* {{a|[[Trident of Lucifer]]}} {{Flashback}} 
+* {{a|[[Venom]]}} {{Flashback}}
+* {{a|[[Wonder Woman's Tiara]]}} {{Flashback}} 
+'''Vehicles:'''
+* {{a|[[Astro-Harness]]}} {{Flashback}}
+* [[Icon's Starship]] {{Mentioned}}
+* {{a|[[Kryptonian Rocket]]s}} {{Vision}}
+'''Events:'''
+* [[Big Bang (Dakotaverse)|Dakota City's Big Bang]] {{Flashback}} 
+* [[Batman and Son|The Birth of Damian Wayne]] {{Flashback}} 
+* [[Blackest Night]] {{Unnamed}} {{Mentioned}}
+* [[Bloodlines (storyline)|Bloodlines Invasion]] {{Mentioned}}
+* [[The Cataclysm]] {{Mentioned}}
+* [[Titans/Young Justice: Graduation Day|The Clash between the Titans and Young Justice]] {{Mentioned}}
+* [[Cosmic Odyssey]] {{Flashback}} 
+** [[Destruction of Xanshi]]
+* [[Countdown to Infinite Crisis]]
+** [[Countdown to Infinite Crisis Vol 1 1|Death of Ted Kord]] {{Flashback}} 
+** [[The OMAC Project]] {{Flashback}} 
+* [[Creation of the Multiverse]] {{Mentioned}}
+** [[Big Bang]] {{Flashback}} {{BTS}}
+* [[The Crises]]
+** [[Crisis on Infinite Earths]] {{Mentioned}}
+** [[Final Crisis]] {{Flashback}} 
+*** [[Final Crisis Vol 1 6|The "Death" of Batman]] {{Mentioned}}
+*** [[Final Crisis: Superman Beyond|The Rise of Mandrakk]]
+** [[The Flashpoint]] {{Unnamed}} {{Mentioned}}
+** [[Infinite Crisis]] {{Flashback}} 
+*** [[Wonder Woman Vol 2 219|Death of Maxwell Lord]] {{Mentioned}}
+** [[Zero Hour]] {{Flashback}} 
+* [[A Death in the Family|Death of Jason Todd]] {{Flashback}} 
+* [[Death and Return of Superman]]
+** [[Death of Superman]] {{Flashback}} 
+** [[Reign of the Supermen]] {{Flashback}} 
+*** [[Destruction of Coast City]]
+* [[Invasion!|The Invasion]] {{Flashback}} 
+* [[Emerald Twilight]] {{Flashback}}
+* [[The Final Night]] {{Flashback}} 
+* [[Identity Crisis]] {{Flashback}} 
+* [[The Killing Joke]] {{Flashback}} 
+* [[Batman: Knightfall|Knightfall]] {{Flashback}} 
+* [[Legends (event)|Legends Riots]] {{Mentioned}}
+* [[No Man's Land (storyline)|No Man's Land]] {{Flashback}} 
+* [[Superman/Batman: The Supergirl from Krypton|The Resurrection of Supergirl]] {{Flashback}} 
+* [[The Flash: Rebirth|The Return of Barry Allen]] {{Flashback}} 
+* [[Green Lantern: Rebirth|The Return of Hal Jordan]] {{Flashback}} 
+* [[Batman: Hush|The Rise of Hush]] {{Flashback}} 
+* [[Sinestro Corps War]] {{Flashback}} 
+* [[Batman: Under the Hood|Under the Hood]] {{Flashback}} 
+* [[Superman: The Wedding Album|The Wedding of Clark Kent and Lois Lane]] {{Flashback}}
+* [[World War II]] {{Mentioned}}
+'''Concepts:'''
+* {{a|[[Anti-Life Equation]]}}
+* {{a|[[Boom Tube]]s}}
+* {{a|[[Wormhole (concept)|Dimensional Portals]]}}
+* {{a|[[Emotional Electromagnetic Spectrum]]}}
+* [[Tower of Babel|Justice League's Contingency Plans]]
+* {{a|[[Magic]]}}
+** [[Living Lightning]]
+* {{a|[[Metagene]]}}
+* {{a|[[Metahumans|Metahumans/Bang Babies]]}}
+* {{a|[[O.M.A.C. Virus]]}}
+* [[Omega Effect]]
+** {{a|[[Omega Beams]]}}
+* [[Possible Futures]] {{Visionalso}}
+* {{a|[[The Seven Forces of the Universe|Source Energy]]}}
+* {{a|[[Time Travel]]}}
+** The Oblivion Effect
+
+==Synopsis for "New History of the DC Universe Timeline Part Three"==
+{{Stub}}
+
+==Appearing in "New History of the DC Universe Timeline Part Three"==
+'''Featured Characters:'''
+* {{a|[[Bernhard Baker (Prime Earth)|Animal Man (Buddy Baker)]]}}&lt;ref name="Baker"&gt;From {{c|Animal Man Vol 1 1}}&lt;/ref&gt;
+* {{a|[[Lorena Marquez (Prime Earth)|Aquagirl (Lorena Marquez)]]}}&lt;ref name="Lorena"&gt;From {{c|Aquaman Vol 6 26}}&lt;/ref&gt;&gt; {{1st}}
+* {{a|[[Amazons of Bana-Mighdall]]}} {{BTS}}
+** {{a|[[Artemis of Bana-Mighdall (Prime Earth)|Artemis]]}}&lt;ref name="Artemis"&gt;From {{c|Wonder Woman Vol 2 90}}&lt;/ref&gt;
+* {{a|[[Ryan Choi (Prime Earth)|The Atom (Ryan Choi)]]}}&lt;ref name="Choi"&gt;From {{c|Brave New World Vol 1 1}}&lt;/ref&gt;
+* {{a|[[Batman Family|Bat-Family]]}}
+** {{a|[[Stephanie Brown (Prime Earth)|Robin (Stephanie Brown)]]}}&lt;ref name="Stephanie"&gt;From {{c|Robin Vol 2 126}}&lt;/ref&gt;
+* {{a|[[Flora Black (Prime Earth)|Black Orchid (Flora Black)]]}} {{1st}}
+* {{a|[[Jaime Reyes (Prime Earth)|Blue Beetle (Jaime Reyes)]]}}&lt;ref name="Jaime"&gt;From {{c|Infinite Crisis Vol 1 5}}&lt;/ref&gt;
+* {{a|[[Bride (Prime Earth)|The Bride of Frankenstein]]}}&lt;ref name="Frankenstein"&gt;From {{c|Seven Soldiers: Frankenstein Vol 1 3}}&lt;/ref&gt;
+* {{a|[[Nathaniel Adam (Prime Earth)|Captain Atom (Nathaniel Adam)]]}}&lt;ref name="Major"&gt;From {{c|Captain Atom Annual Vol 2 1}}&lt;/ref&gt;
+* {{a|[[Damian Wayne (Prime Earth)|Damian Wayne]]}}&lt;ref name="Damian"&gt;From {{c|Batman Vol 1 657}}&lt;/ref&gt;
+* {{a|[[Jason Rusch (Prime Earth)|Firestorm (Jason Rusch)]]}}&lt;ref name="Firestorm"&gt;{{c|Firestorm Vol 3 2}}&lt;/ref&gt;
+* {{a|[[Frankenstein (Prime Earth)|Frankenstein]]}}&lt;ref name="Frankenstein" /&gt;
+* {{a|[[Green Lantern Corps (Prime Earth)|Green Lantern Corps]]}}&lt;ref name="GLR"&gt;From {{c|Green Lantern: Rebirth Vol 1 6}}&lt;/ref&gt;&lt;ref name="Corps"&gt;From {{c|Green Lantern Vol 4 25}}&lt;/ref&gt;
+** {{a|[[Hal Jordan (Prime Earth)|Green Lantern/The Spectre/Parallax (Hal Jordan)]]}} {{Blue|[[Parallax (Prime Earth)|Possessed]]}}&lt;ref name="Emerald"&gt;From {{c|Green Lantern Vol 3 50}}&lt;/ref&gt; {{Green|Also bound to [[Aztar (Prime Earth)|Aztar]]}}&lt;ref name="DayofJudgment"&gt;From {{c|Day of Judgment Vol 1 5}}&lt;/ref&gt;
+** {{a|[[John Stewart (Prime Earth)|John Stewart]]}}&lt;ref name="GLR" /&gt;&lt;ref name="Corps" /&gt;
+** {{a|[[Kilowog (Prime Earth)|Kilowog]]}}&lt;ref name="GLR" /&gt;&lt;ref name="Corps" /&gt; {{Unnamed}} 
+** {{a|[[Kyle Rayner (Prime Earth)|Kyle Rayner]]}}&lt;ref name="GLR" /&gt;&lt;ref name="Corps" /&gt;
+** {{a|[[Soranik Natu (Prime Earth)|Soranik Natu]]}}&lt;ref name="Corps" /&gt; {{Unnamed}}
+* {{a|[[Thomas Monaghan (Prime Earth)|Hitman (Tommy Monaghan)]]}}&lt;ref name="Hitman"&gt;From {{c|The Demon Annual Vol 3 2}}&lt;/ref&gt;
+* {{a|[[Jason Todd (Prime Earth)|Jason Todd]]}}&lt;ref name="RedHood"&gt;From {{c|Red Hood: The Lost Days Vol 1 1}}&lt;/ref&gt;
+* {{a|[[Justice Society of America (Prime Earth)|JSA]]}}&lt;ref name="JSA"&gt;From {{c|JSA Vol 1 4}}&lt;/ref&gt;&lt;ref name="NextAge"&gt;From {{c|Justice Society of America Vol 3 4}}&lt;/ref&gt;
+** {{a|[[Albert Rothstein (Prime Earth)|Atom Smasher (Al Rothstein)]]}}&lt;ref name="JSA" /&gt;
+** {{a|[[Maxine Hunkel (Prime Earth)|Cyclone (Maxine Hunkel)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Grant Emerson (Prime Earth)|Damage (Grant Emerson)]]}}&lt;ref name="Damage"&gt;From {{c|Damage Vol 1 3}}&lt;/ref&gt;&lt;ref name="NextAge" /&gt;
+** {{a|[[Hector Hall (Prime Earth)|Doctor Fate (Hector Hall)]]}}&lt;ref name="JSA" /&gt;
+** {{a|[[Elizabeth Chapel (Prime Earth)|Doctor Mid-Nite (Beth Chapel)]]}}&lt;ref name="JSA" /&gt;
+** {{a|[[Pieter Cross (Prime Earth)|Doctor Mid-Nite (Pieter Cross)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Jason Garrick (Prime Earth)|The Flash (Jay Garrick)]]}}&lt;ref name="JSA" /&gt;&lt;ref name="NextAge" /&gt;
+** {{a|[[Alan Scott (Prime Earth)|Green Lantern/Sentinel (Alan Scott)]]}}&lt;ref name="JSA" /&gt;&lt;ref name="NextAge" /&gt;
+** {{a|[[Kendra Saunders (Prime Earth)|Hawkgirl (Kendra Saunders)]]}}&lt;ref name="JSA" /&gt;&lt;ref name="Hawkworld"&gt;From {{c|JSA Vol 1 25}}&lt;/ref&gt;
+** {{a|[[Carter Hall (Prime Earth)|Hawkman (Carter Hall)]]}}&lt;ref name="Hawkworld" /&gt;&lt;ref name="NextAge" /&gt;
+** {{a|[[Richard Tyler (Prime Earth)|Hourman (Rick Tyler)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Abigail Hunkel (Prime Earth)|Ma Hunkel]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Jesse Chambers (Prime Earth)|Liberty Belle (Jesse Chambers)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Michael Holt (Prime Earth)|Mister Terrific (Michael Holt)]]}}&lt;ref name="Holt"&gt;From {{c|Spectre Vol 3 54}}&lt;/ref&gt;&lt;ref name="NextAge" /&gt;
+** {{a|[[Todd Rice (Prime Earth)|Obsidian]]}} {{Green|As a shadow}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Kara Zor-L (Prime Earth)|Power Girl/Kara Zor-L (Post-Flashpoint)]]}}
+** {{a|[[Sanderson Hawkins (Prime Earth)|Sandman/Sand (Sandy Hawkins)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Courtney Whitmore (Prime Earth)|Stargirl]]}}&lt;ref name="JSA" /&gt;&lt;ref name="NextAge" /&gt;
+** {{a|[[Thom Kallor (Pre-Zero Hour)|Starman/Thom Kallor (Pre-Zero Hour)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Jack Knight (Prime Earth)|Starman (Jack Knight)]]}}&lt;ref name="JSA" /&gt;
+** {{a|[[Ted Grant (Prime Earth)|Wildcat (Ted Grant)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Thomas Bronson (Prime Earth)|Wildcat (Tommy Bronson)]]}}&lt;ref name="NextAge" /&gt;
+** {{a|[[Yolanda Montez (Prime Earth)|Wildcat (Yolanda Montez)]]}}&lt;ref name="JSA" /&gt;
+* {{a|[[Justice Legion (DC One Million)]]}}&lt;ref name="OneMillion"&gt;From {{c|DC One Million Vol 1 1}}&lt;/ref&gt;
+** {{a|[[Aquaman (DC One Million)|Aquaman]]}}
+** {{a|[[Batman (DC One Million)|Batman]]}}
+** {{a|[[Jonathan Fox (New Earth)|The Flash (John Fox)]]}}
+** {{a|[[Matthew Tyler (New Earth)|Hourman (Matthew Tyler)]]}}
+** {{a|[[Farris Knight (DC One Million)|Starman (Farris Knight)]]}}
+** {{a|[[Kal Kent (DC One Million)|Superman (Kal Kent)]]}}
+** {{a|[[Wonder Woman (DC One Million)|Wonder Woman]]}}
+* {{a|[[Justice League (Prime Earth)|Justice League/Justice League of America]]}}
+** {{a|[[Uno (Prime Earth)|Aztek (Uno)]]}}&lt;ref name="Aztek"&gt;From {{c|Aztek: The Ultimate Man Vol 1 1}}&lt;/ref&gt;
+** {{a|[[Bruce Wayne (Prime Earth)|Batman (Bruce Wayne)]]}}
+** {{a|[[Dinah Drake (Prime Earth)|Black Canary (Dinah Laurel Lance)]]}}
+** {{a|[[Jefferson Pierce (Prime Earth)|Black Lightning]]}}
+** {{a|[[Wally West (Prime Earth)|The Flash (Wally West)]]}}
+** {{a|[[Oliver Queen (Prime Earth)|Green Arrow (Oliver Queen)]]}}
+** {{a|[[J'onn J'onzz (Prime Earth)|Martian Manhunter]]}}
+** {{a|[[Red Tornado (Prime Earth)|Red Tornado]]}}
+** {{a|[[Kal-El (Prime Earth)|Superman (Clark Kent)]]}}
+** {{a|[[Mari McCabe (Prime Earth)|Vixen]]}}
+** {{a|[[Diana of Themyscira (Prime Earth)|Wonder Woman (Diana of Themyscira)]]}}
+** {{a|[[Zauriel (Prime Earth)|Zauriel (Post-Flashpoint)]]}}&lt;ref name="Zauriel"&gt;From {{c|JLA Vol 1 6}}&lt;/ref&gt;
+* {{a|[[Justice League Europe (Prime Earth)|Justice League Europe]]}}
+** {{a|[[William Everett III (Prime Earth)|Amazing Man (William Everett III)]]}}&lt;ref name="TaskForce"&gt;From {{c|Justice League Task Force Vol 1 13}}&lt;/ref&gt; {{1st}}
+* {{a|[[Justice League International (Prime Earth)|Justice League International]]}}&lt;ref name="TaskForce" /&gt; {{Green|Also in picture}}
+** {{a|[[Quintus Arce (Prime Earth)|Bloodwynd (Quintus Arce)]]}}&lt;ref name="TaskForce" /&gt; {{Unnamed}} 
+** {{a|[[Theodore Kord (Prime Earth)|Blue Beetle (Ted Kord)]]}}&lt;ref name="Countdown"&gt;From {{c|Countdown to Infinite Crisis Vol 1 1}}&lt;/ref&gt; {{Green|Also in picture}}
+** {{a|[[Billy Batson (Prime Earth)|The Captain (Billy Batson)]]}}&lt;ref name="Shazam"&gt;From {{c|Justice League Vol 2 0}}&lt;/ref&gt; {{Green|Also in picture}}
+** {{a|[[Crimson Fox (Prime Earth)|Crimson Fox (Constance D'Aramis)]]}}&lt;ref name="TaskForce" /&gt; {{Green|Real name revealed}}
+** {{a|[[Kimiyo Hoshi (Prime Earth)|Doctor Light (Kimiyo Hoshi)]]}}&lt;ref name="TaskForce" /&gt; {{Green|Also in picture}}
+** {{a|[[Kent Nelson (Prime Earth)|Doctor Fate (Kent Nelson)]]}} {{Picture}}
+** {{a|[[Ralph Dibny (Prime Earth)|Elongated Man]]}}&lt;ref name="TaskForce" /&gt; 
+** {{a|[[Beatriz da Costa (Prime Earth)|Fire]]}}&lt;ref name="TaskForce" /&gt;
+** {{a|[[Guy Gardner (Prime Earth)|Green Lantern (Guy Gardner)]]}} {{Green|Also in picture}}
+** {{a|[[Chandi Gupta (Prime Earth)|Maya]]}}&lt;ref name="TaskForce" /&gt; {{1stUnnamed}}
+** {{a|[[Scot (Prime Earth)|Mister Miracle/Scott Free (Post-Flashpoint)]]}} {{Picture}}
+** {{a|[[Oberon (Prime Earth)|Oberon]]}}&lt;ref name="TaskForce" /&gt; {{Green|Also in picture}}
+** {{a|[[Raymond Terrill (Prime Earth)|The Ray (Ray Terrill)]]}}&lt;ref name="Ray"&gt;From {{c|The Ray Vol 1 1}}&lt;/ref&gt;
+** {{a|[[Hugh Dawkins (Prime Earth)|Tasmanian Devil]]}}&lt;ref name="TaskForce" /&gt; {{Unnamed}}  
+* {{a|[[Linda Park (Prime Earth)|Linda Park-West]]}}&lt;ref name="Linda"&gt;From {{c|The Flash Vol 2 28}}&lt;/ref&gt;&lt;ref name="Park-West"&gt;From {{c|The Flash Vol 2 159}}&lt;/ref&gt;
+* {{a|[[Outsiders II (Prime Earth)|The Outsiders]]}}&lt;ref name="Outsiders"&gt;From {{c|Outsiders Vol 3 1}}&lt;/ref&gt;
+** {{a|[[Grace Choi (Prime Earth)|Grace Choi]]}}
+** {{a|[[Brainiac 8 (Prime Earth)|Indigo (Brainiac 8)]]}}
+** {{a|[[Rex Mason (Prime Earth)|Metamorpho]]}}
+** {{a|[[Anissa Pierce (Prime Earth)|Thunder (Anissa Pierce)]]}}
+* {{a|[[Aztar (Prime Earth)|The Spectre/Aztar (Post-Flashpoint)]]}} {{Green|Bound to [[Hal Jordan (Prime Earth)|Hal Jordan]]}}&lt;ref name="DayofJudgment" /&gt; {{Flashback}} {{Cameo}}
+* {{a|[[Mia Dearden (Prime Earth)|Speedy (Mia Dearden)]]}}&lt;ref name="Mia"&gt;From {{c|Green Arrow Vol 3 45}}&lt;/ref&gt;
+* {{a|[[Natasha Irons (Prime Earth)|Steel (Natasha Irons)]]}}
+* {{a|[[Kara Zor-El (Prime Earth)|Supergirl (Kara Zor-El)]]}}
+* {{a|[[Matrix (Prime Earth)|Supergirl/Matrix (Post-Flashpoint)]]}}
+* {{a|[[Time Masters (Prime Earth)|Time Masters (Post-Flashpoint)]]}}&lt;ref name="TimeMasters"&gt;From {{c|Time Masters Vol 1 1}}&lt;/ref&gt;
+** {{a|[[Jeffrey Smith (Prime Earth)|Dr. Jeffrey Smith]]}}
+** {{a|[[Rip Hunter (Prime Earth)|Rip Hunter (Post-Flashpoint)]]}}
+* {{a|[[Teen Titans (Prime Earth)|Teen Titans]]}}
+** {{a|[[Garfield Logan (Prime Earth)|Beast Boy (Garfield Logan)]]}}
+** {{a|[[Victor Stone (Prime Earth)|Cyborg (Vic Stone)]]}}
+** {{a|[[Koriand'r (Prime Earth)|Starfire]]}}
+* {{a|[[Titans (Prime Earth)|Titans]]}}
+** {{a|[[Roy Harper (Prime Earth)|Arsenal/Red Arrow (Roy Harper)]]}}
+** {{a|[[Donna Troy (Prime Earth)|Donna Troy/Troia]]}} {{Blue|[[Titans of Myth|Mutated]]}}&lt;ref name="WarofGods"&gt;From {{c|War of the Gods Vol 1 4}}&lt;/ref&gt;
+** {{a|[[Richard Grayson (Prime Earth)|Nightwing (Dick Grayson)]]}}
+** {{a|[[Garth (Prime Earth)|Tempest (Garth)]]}}
+* {{a|[[Matthew Ryder (Armageddon 2001)|Waverider/Matthew Ryder (Armageddon 2001)]]}}&lt;ref name="Armageddon"&gt;From {{c|Armageddon 2001 Vol 1 1}}&lt;/ref&gt;
+* {{a|[[Young Justice (Prime Earth)|Young Justice]]}}&lt;ref name="YJ"&gt;From {{c|Young Justice Vol 1 5}}&lt;/ref&gt;
+** {{a|[[Cissie King-Jones (Prime Earth)|Arrowette (Cissie King-Jones)]]}}&lt;ref name="Arrowette"&gt;From {{c|Impulse Vol 1 28}}&lt;/ref&gt;
+** {{a|[[Bart Allen (Prime Earth)|Impulse/Kid Flash/Bart Allen (Post-Flashpoint)]]}}&lt;ref name="Impulse"&gt;From {{c|The Flash Vol 2 92}}&lt;/ref&gt;
+** {{a|[[Timothy Drake (Prime Earth)|Robin (Tim Drake)]]}} 
+** {{a|[[Greta Hayes (Prime Earth)|Secret (Greta Hayes)]]}}
+** {{a|[[Slobo (Prime Earth)|Slobo/Lil' Lobo]]}}&lt;ref name="Slobo"&gt;From {{c|Young Justice Vol 1 38}}&lt;/ref&gt; {{1st}}
+** {{a|[[Kon-El (Prime Earth)|Superboy (Conner Kent)]]}}
+** {{a|[[Cassandra Sandsmark (Prime Earth)|Wonder Girl (Cassie Sandsmark)]]}}&lt;ref name="Cassie"&gt;From {{c|Wonder Woman Vol 2 111}}&lt;/ref&gt;
+'''Supporting Characters:'''
+* {{a|[[Blue Lantern Corps (Prime Earth)|Blue Lantern Corps]]}}&lt;ref name="Corps" /&gt;
+* Mrs. Chapel&lt;ref name="Chapel"&gt;From {{c|Infinity Inc. Vol 1 21}}&lt;/ref&gt; {{Unnamed}} 
+* {{a|[[Chester Runk (Prime Earth)|Chunk]]}}&lt;ref name="Park-West" /&gt; {{Unnamed}}
+* {{a|[[Flash Family]]}}&lt;ref name="Park-West" /&gt;
+** {{a|[[Max Mercury (Prime Earth)|Max Mercury]]}}&lt;ref name="Park-West" /&gt;
+* {{a|[[Joan Williams (Prime Earth)|Joan Garrick]]}}&lt;ref name="Park-West" /&gt; {{Unnamed}}
+* {{a|[[Lian Harper (Prime Earth)|Lian Harper]]}}&lt;ref name="Lian"&gt;From {{c|New Teen Titans Vol 1 21}}&lt;/ref&gt;
+* {{a|[[Lois Lane (Prime Earth)|Lois Lane-Kent]]}}
+* {{a|[[Susan Dearbon (Prime Earth)|Sue Dibny]]}}&lt;ref name="Park-West" /&gt; 
+* {{a|[[Jenni Ognats (Post-Zero Hour)|XS (Post-Zero Hour)]]}}&lt;ref name="3Legions"&gt;From {{c|Final Crisis: Legion of 3 Worlds Vol 1 5}}&lt;/ref&gt;
+'''Antagonists:'''
+* {{a|[[Lonnie Machin (Prime Earth)|Anarky (Lonnie Machin)]]}}&lt;ref name="Anarky"&gt;From {{c|Detective Comics Vol 1 608}}&lt;/ref&gt;
+* {{a|[[Bane (Prime Earth)|Bane]]}}
+* {{a|[[Circe (Prime Earth)|Circe (Post-Flashpoint)]]}}&lt;ref name="WarofGods" /&gt;
+** {{a|[[Hecate (Prime Earth)|Hecate (Post-Flashpoint)]]}} {{BTS}}
+** {{a|[[Phobos (Prime Earth)|Phobos (Post-Flashpoint)]]}}&lt;ref name="WarofGods" /&gt; 
+* {{a|[[Doomsday (Prime Earth)|Doomsday]]}}&lt;ref name="Death"&gt;From {{c|Superman Vol 2 75}}&lt;/ref&gt; {{Green|Also as an illusion}}&lt;ref name="Cassie" /&gt;
+* {{a|[[Dubelz Crime Family (New Earth)|Dubelz Crime Family]]}}&lt;ref name="Hitman" /&gt; {{1stUnnamed}}
+* {{a|[[The Elite (Prime Earth)|The Elite]]}}&lt;ref name="Elite"&gt;From {{c|Action Comics Vol 1 775}}&lt;/ref&gt;
+** {{a|[[Nathan Craig Jones (PrimeEarth)|Coldcast]]}} {{1st}}
+** {{a|[[Rampotatek (Prime Earth)|Hat]]}} {{1st}}
+** {{a|[[Manchester Black (Prime Earth)|Manchester Black]]}}
+** {{a|[[Sonja (Prime Earth)|Menagerie (Sonja)]]}} {{1st}}
+* {{a|[[Thomas Elliot (Prime Earth)|Hush]]}}&lt;ref name="Hush"&gt;From {{c|Batman Vol 1 619}}&lt;/ref&gt;
+* {{a|[[Inertia (Prime Earth)|Inertia/Thaddeus Thawne (Post-Flashpoint)]]}}&lt;ref name="Inertia"&gt;From {{c|Impulse Vol 1 52}}&lt;/ref&gt; {{Green|Real name revealed}}
+** {{a|[[Craydl (Prime Earth)|Craydl A.I.]]}}&lt;ref name="Inertia" /&gt; {{1stUnnamed}} {{Voice}}
+* [[Kris Lazarus (Prime Earth)|Kris Lazarus]]&lt;ref name="Cassie" /&gt; {{Unnamed}} {{BTS}}
+* {{a|[[Alexander Luthor (Prime Earth)|President Lex Luthor]]}}&lt;ref name="Lex2000"&gt;From {{c|Superman: Lex 2000 Vol 1 1}}&lt;/ref&gt;
+* {{a|[[Clifford Zmeck (Prime Earth)|Major Force (Clifford Zmeck)]]}}&lt;ref name="Major" /&gt;
+* {{a|[[Monitor Dax Novu|Mandrakk the Dark Monitor]]}}&lt;ref name="Mandrakk"&gt;From {{c|Final Crisis: Superman Beyond Vol 1 2}}&lt;/ref&gt; {{Green|In [[Rox Ogama]]'s body}}
+** {{a|[[Monitor Rox Ogama]]}} {{Possessed}}
+* {{a|[[Maxwell Lord IV (Prime Earth)|Maxwell Lord]]}}&lt;ref name="Countdown" /&gt;
+** [[Checkmate (Prime Earth)|Checkmate]] {{BTS}}
+* {{a|[[Evan McCulloch (Prime Earth)|Mirror Master (Evan McCulloch)]]}}&lt;ref name="Mirror"&gt;From {{c|Animal Man Vol 1 8}}&lt;/ref&gt;
+* {{a|[[Neron (Prime Earth)|Neron (Post-Flashpoint)]]}}&lt;ref name="Neron"&gt;From {{c|Underworld Unleashed Vol 1 3}}&lt;/ref&gt;
+* {{a|[[Orange Lantern Corps (Prime Earth)|Orange Lantern Corps]]}} {{BTS}}
+** {{a|[[Larfleeze (Prime Earth)|Larfleeze]]}}&lt;ref name="Corps" /&gt;
+* {{a|[[Parallax (Prime Earth)|Parallax]]}}&lt;ref name="Emerald" /&gt; {{Green|In [[Green Lantern (Hal Jordan)|Hal Jordan's]] body}}
+* {{a|[[Otto von Furth (Prime Earth)|Plasmus]]}}&lt;ref name="NewTitans"&gt;From {{c|New Titans Vol 1 99}}&lt;/ref&gt;
+* {{a|[[Prometheus (Prime Earth)|Prometheus]]}}&lt;ref name="Prometheus"&gt;From {{c|JLA Vol 1 17}}&lt;/ref&gt;
+* {{a|[[The Reach (Prime Earth)|The Reach]]}}&lt;ref name="Reach"&gt;From {{c|Blue Beetle Vol 7 13}}&lt;/ref&gt;
+** {{a|[[Dawur (Prime Earth)|Dawur]]}} {{1stUnnamed}}
+** {{a|[[Negotiator (Prime Earth)|Negotiator]]}} {{1stUnnamed}}
+* {{a|[[Red Lantern Corps (Prime Earth)|Red Lantern Corps]]}}&lt;ref name="Corps" /&gt;
+** {{a|[[Abyssma (Prime Earth)|Abyssma]]}} {{Unnamed}}
+** {{a|[[Antipathy (Prime Earth)|Antipathy]]}} {{Unnamed}}
+** {{a|[[Atros (Prime Earth)|Atrocitus]]}} {{Unnamed}}
+* {{a|[[Savitar (Prime Earth)|Savitar]]}}&lt;ref name="Savitar"&gt;From {{c|Impulse Vol 1 1}}&lt;/ref&gt;
+* {{a|[[Secret Six (Prime Earth)|Secret Six III]]}}&lt;ref name="Villains"&gt;From {{c|Villains United Vol 1 2}}&lt;/ref&gt; {{1st}}
+** {{a|[[Thomas Blake (Prime Earth)|Catman (Thomas Blake)]]}}
+** {{a|[[Jade Nguyen (Prime Earth)|Cheshire (Jade Nguyen)]]}}
+** {{a|[[Floyd Lawton (Prime Earth)|Deadshot (Floyd Lawton)]]}}
+** {{a|[[Parademon (Prime Earth)|The Parademon]]}} {{1stUnnamed}}
+** {{a|[[Peter Merkel, Jr. (Prime Earth)|Ragdoll (Peter Merkel, Jr.)]]}}
+** {{a|[[Scandal Savage (Prime Earth)|Scandal Savage]]}}
+* {{a|[[Shado (Prime Earth)|Shado]]}}&lt;ref name="Longbow"&gt;From {{c|Green Arrow: The Longbow Hunters Vol 1 1}}&lt;/ref&gt; 
+* {{a|[[Sinestro Corps (Prime Earth)|Sinestro Corps]]}}&lt;ref name="Corps" /&gt;
+** {{a|[[Karu-Sil (Prime Earth)|Karu-Sil]]}} {{Unnamed}}
+** {{a|[[Romat-Ru (Prime Earth)|Romat-Ru]]}} {{Unnamed}}
+** {{a|[[Slushh (Prime Earth)|Slushh]]}} {{Unnamed}}
+* {{a|[[Chas Parmenter (Prime Earth)|The Spazz]]}}&lt;ref name="Arrowette" /&gt; {{1stUnnamed}}
+* {{a|[[Superman Robot]]}}&lt;ref name="Graduation"&gt;From {{c|Titans/Young Justice: Graduation Day Vol 1 3}}&lt;/ref&gt;
+* {{a|[[Sun-Eaters|Sun-Eater]]}}&lt;ref name="FinalNight"&gt;From {{c|The Final Night Vol 1 4}}&lt;/ref&gt;
+* {{a|[[Arnold Wesker (Prime Earth)|The Ventriloquist (Arnold Wesker)]]}}&lt;ref name="Scarface"&gt;From {{c|Detective Comics Vol 1 583}}&lt;/ref&gt;
+* {{a|[[Waiting|The Waiting (Post-Flashpoint)]]}}&lt;ref name="Choi" /&gt;
+* {{a|[[Dru-Zod (Prime Earth)|General Zod]]}}&lt;ref name="Zod"&gt;From {{c|Action Comics Vol 1 845}}&lt;/ref&gt;  
+** {{a|[[Non (Prime Earth)|Non]]}}
+** {{a|[[Ursa (Prime Earth)|Ursa]]}}
+'''Other Characters:'''
+* Atlanta Fire Department&lt;ref name="Damage" /&gt; {{Unnamed}}
+* {{a|[[Dinosaurs]]}}&lt;ref name="Armageddon" /&gt;
+* {{a|[[Guardians of the Universe (Prime Earth)|Guardians of the Universe]]}}&lt;ref name="Emerald" /&gt; {{Green|Only as corpses}}
+* {{a|[[Indigo Tribe (Prime Earth)|Indigo Tribe]]}}&lt;ref name="Corps" /&gt;
+** {{a|[[Munk (Prime Earth)|Munk]]}} {{Unnamed}}
+* {{a|[[Jonathan Samuel Kent (Prime Earth)|Jon Kent]]}}
+* {{a|[[Orange Lantern Corps (Prime Earth)|Orange Lantern Corps]]}}
+* {{a|[[Philip Sylvian (Prime Earth)|Dr. Philip Sylvian]]}}&lt;ref name="Orchid"&gt;From {{c|Black Orchid Vol 1 1}}&lt;/ref&gt; 
+* Solid Blood band {{1stUnnamed}}
+** Johnny Vomit&lt;ref name="Anarky" /&gt; {{1stUnnamed}}
+* {{a|[[Star Sapphire Corps (Prime Earth)|Star Sapphire Corps]]}}&lt;ref name="Corps" /&gt;
+* {{a|[[Talia al Ghul (Prime Earth)|Talia al Ghul]]}}&lt;ref name="RedHood" /&gt;
+* [[United States Government]] {{BTS}}
+** {{a|[[Sargent Steel (Prime Earth)|Sargent Steel]]}}
+** {{a|[[United States Navy]]}}&lt;ref name="Matrix"&gt;From {{c|Superman Vol 2 16}}&lt;/ref&gt; {{Unnamed}} {{Cameo}}
+*** Lt. Shaw {{Only}} {{Unnamed}}
+* [[Abigail Arcane (Prime Earth)|Abby Arcane]] {{Mentioned}}
+* [[Adam Strange (Prime Earth)|Adam Strange]] {{Mentioned}}
+* [[Benjamin Lockwood (Prime Earth)|Agent Liberty (Ben Lockwood)]] {{Mentioned}}
+* [[Alanna Lewis (Prime Earth)|Alanna Strange]] {{Mentioned}}
+* [[Aleea Strange (Prime Earth)|Aleea Strange]] {{Mentioned}}
+* [[Alexander Luthor, Jr. (Earth-Three)|Alexander Luthor Jr. (Earth-Three)]] {{Mentioned}}
+* [[Alien Alliance]] {{Mentioned}}
+** [[Citadelians]] {{Mentioned}}
+** [[Daxamites]] {{Mentioned}}
+** [[Dominators]] {{Mentioned}}
+** [[Durlans]] {{Mentioned}}
+** [[Gil'Dishpan]] {{Mentioned}}
+** [[Khunds]] {{Mentioned}}
+** [[Psions]] {{Mentioned}}
+** [[Thanagarians]] {{Mentioned}}
+** [[Warlords of Okaara]] {{Mentioned}}
+* [[Alpha Lantern Corps]] {{Mentioned}}
+* [[Amanda Waller (Prime Earth)|Amanda Waller]] {{Mentioned}}
+** [[John Economos (Prime Earth)|John Economos]] {{Mentioned}}
+** [[Christopher Smith (Prime Earth)|Peacemaker (Christopher Smith)]] {{Mentioned}}
+** [[Suicide Squad (Prime Earth)|Suicide Squad/Task Force X]] {{Mentioned}}
+* [[Amazons of Themyscira]] {{Mentioned}}
+** [[Hippolyta (Prime Earth)|Queen Hippolyta]] {{Mentioned}}
+* [[Angels]] {{Mentioned}}
+** [[Asmodel (Prime Earth)|Asmodel]]&lt;ref name="Zauriel" /&gt; {{Mentioned}}
+* [[Jean-Paul Valley (Prime Earth)|Azrael (Jean-Paul Valley)]] {{Mentioned}}
+* Baker Family
+** [[Clifford Baker (Prime Earth)|Cliff Baker]] {{Mentioned}}
+** [[Ellen Frazier (Prime Earth)|Ellen Baker]] {{Mentioned}}
+** [[Maxine Baker (Prime Earth)|Maxine Baker]] {{Mentioned}}
+* [[Batman Villains]]
+** [[Black Glove]] {{Mentioned}}
+*** [[Simon Hurt (Prime Earth)|Simon Hurt]] {{Mentioned}}
+** [[Arthur Brown (Prime Earth)|Cluemaster]] {{Mentioned}}
+** [[Joker (Prime Earth)|Joker]] {{Mentioned}}
+** [[Victor Zsasz (Prime Earth)|Mister Zsasz]] {{Mentioned}}
+* [[Bedlam II (Prime Earth)|Bedlam]] {{Mentioned}}
+* [[Bertinelli Family]] {{Mentioned}}
+* [[Birds of Prey (Prime Earth)|Birds of Prey]] {{Mentioned}}
+** [[Helena Bertinelli (Prime Earth)|Huntress (Helena Bertinelli)]] {{Mentioned}}
+** [[Barbara Gordon (Prime Earth)|Oracle/Batgirl (Barbara Gordon)]] {{Mentioned}}
+* [[William Hayes (Prime Earth)|Billy Hayes]] {{Unnamed}} {{Mentioned}} 
+* [[Lori Zechlin (Prime Earth)|Black Alice]] {{Mentioned}}
+* [[Ryan Kendall (Prime Earth)|Black Condor (Ryan Kendall)]] {{Mentioned}}
+* [[Black Flash (Prime Earth)|Black Flash (Post-Flashpoint)]] {{Mentioned}}
+* [[Bloodlines Parasites]] {{Mentioned}}
+* [[Blood Syndicate (Prime Earth)|Blood Syndicate]] {{Mentioned}}
+* {{WP|Chinese Government}} {{Mentioned}}
+** [[Great Ten (Prime Earth)|The Great Ten]] {{Mentioned}}
+* [[CIA]] {{Mentioned}}
+* [[Vivian D'Aramis (Prime Earth)|Crimson Fox (Vivian D'Aramis)]] {{Mentioned}}
+* [[Danny the Street (Prime Earth)|Danny the Street]] {{Mentioned}}
+* [[Darkseid (Prime Earth)|Darkseid (Post-Flashpoint)]] {{Mentioned}}
+** [[Justifiers]] {{Mentioned}}
+* [[Darkstars (Prime Earth)|Darkstars]] {{Mentioned}}
+** [[Ferrin Colos (Prime Earth)|Ferrin Colos]] {{Mentioned}}
+* [[David Cain (Prime Earth)|David Cain]] {{Mentioned}}
+* [[Slade Wilson (Prime Earth)|Deathstroke (Slade Wilson)]] {{Mentioned}}
+* [[Demons]] {{Mentioned}}
+** [[Etrigan (Prime Earth)|Etrigan]] {{Mentioned}}
+* [[Department of Extranormal Operations (Prime Earth)|D.E.O.]] {{Mentioned}}
+** [[Cameron Chase (Prime Earth)|Cameron Chase]] {{Mentioned}}
+* [[Doom Patrol (Prime Earth)|Doom Patrol]] {{Mentioned}}
+** [[Niles Caulder (Prime Earth)|The Chief (Niles Caulder)]] {{Mentioned}}
+** [[Kay Challis (Prime Earth)|Crazy Jane (Kay Challis)]] {{Mentioned}}
+** [[Dorothy Spinner (Prime Earth)|Dorothy Spinner]] {{Mentioned}}
+** [[Lawrence Trainor (Prime Earth)|Negative Man (Larry Trainor)]] {{Mentioned}}
+*** [[Rebis (Prime Earth)|Rebis]] {{Mentioned}}
+** [[Clifford Steele (Prime Earth)|Robotman (Cliff Steele)]] {{Mentioned}}
+* [[Dawn Granger (Prime Earth)|Dove (Dawn Granger)]] {{Mentioned}}
+* [[Donald Hall (Prime Earth)|Dove (Don Hall)]] {{Deceased}} {{Mentioned}}
+* [[Daniel Hall (Prime Earth)|Dream (Daniel Hall)]] {{Mentioned}}
+* [[Dream (Prime Earth)|Dream/Morpheus (Post-Flashpoint)]] {{Deceased}} {{Mentioned}}
+* [[Rafael Sandoval (Prime Earth)|El Diablo (Rafael Sandoval)]] {{Mentioned}}
+* [[Eleanor Poole (Prime Earth)|Dr. Eleanor Poole]] {{Mentioned}}
+* [[Earthgov|Earthgov (Post-Flashpoint)]]&lt;ref name="Impulse" /&gt; {{Mentioned}}
+* [[Anita Fite (Prime Earth)|Empress (Anite Fite)]] {{Mentioned}}
+* [[Gregorio de la Vega (Prime Earth)|Extraño]] {{Mentioned}}
+* [[Flash Family]] {{Mentioned}}
+** [[Iris West II (Prime Earth)|Irey West]] {{Mentioned}}
+** [[Jai West (Prime Earth)|Jai West]] {{Mentioned}}
+** [[Jonathan Chambers (Prime Earth)|Johnny Quick (Johnny Chambers)]] {{Mentioned}}
+* [[Flex Mentallo (Prime Earth)|Flex Mentallo]] {{Mentioned}}
+* [[Forager (Prime Earth)|Forager (Post-Flashpoint)]] {{Mentioned}}
+* [[Freedom Fighters (Prime Earth)|Freedom Fighters]] {{Mentioned}}
+* [[Jose Delgado (Prime Earth)|Gangbuster (Jose Delgado)]] {{Mentioned}}
+* [[G'nort (Prime Earth)|G'nort]] {{Mentioned}}
+* [[Gods|Gods (Post-Flashpoint)]] {{Mentioned}}
+** [[Lennox (Prime Earth)|Lennox]] {{Mentioned}}
+** [[Zeus (Prime Earth)|Zeus]] {{Mentioned}}
+* [[Gotham City Police Department]] {{Mentioned}}
+** [[Renee Montoya (Prime Earth)|The Question (Renee Montoya)]] {{Mentioned}}
+** [[Crispus Allen (Prime Earth)|The Spectre (Crispus Allen)]] {{Deceased}} {{Mentioned}}
+* [[Ganthet (Prime Earth)|The Guardian Ganthet]] {{Mentioned}}
+* [[Gillian Wahrman (Prime Earth)|Gillian Wahrman]]&lt;ref name="Linda" /&gt;
+* [[Grayven (Prime Earth)|Grayven (Post-Flashpoint)]] {{Mentioned}}
+* [[Curtis Metcalf (Prime Earth)|Hardware]] {{Mentioned}}
+* [[Harleen Quinzel (Prime Earth)|Harley Quinn]] {{Mentioned}}
+* [[Holly Granger (Prime Earth)|Hawk (Holly Granger)]] {{Mentioned}}
+* [[Helena Sandsmark (Prime Earth)|Prof. Helena Sandsmark]] {{Mentioned}}
+* [[Stuart Mosely (Prime Earth)|The Heckler (Stu Mosely)]] {{Mentioned}}
+* [[Herupa Hando Hu (Prime Earth)|The Guardian Herupa Hando Hu]] {{Unnamed}} {{Mentioned}}
+* [[Izaya (Prime Earth)|Highfather (Post-Flashpoint)]] {{Mentioned}}
+* [[Matthew Tyler (New Earth)|Hourman/Matthew Tyler (DC One Million)]] {{Mentioned}}
+* [[Sigrid Nansen (Prime Earth)|Ice/Icemaiden (Sigrid Nansen)]] {{Mentioned}}
+* [[Augustus Freeman (Prime Earth)|Icon]] {{Mentioned}}
+** [[Raquel Ervin (Prime Earth)|Rocket]] {{Mentioned}}
+* [[Infinity, Inc. (Prime Earth)|Infinity, Inc.]] {{Mentioned}}
+* [[Jack Drake (Prime Earth)|Jack Drake]] {{Deceased}} {{Mentioned}}
+* [[Jean Loring (Prime Earth)|Jean Loring]] {{Mentioned}}
+* [[Jeffrey Holt (Prime Earth)|Jeffrey Holt]] {{Mentioned}}
+* [[Justice Society of America (Prime Earth)|JSA]]
+** [[Markus Clay (Prime Earth)|Amazing Man (Markus Clay)]] {{Mentioned}}
+** [[Nathaniel Heywood (Prime Earth)|Citizen Steel (Nathaniel Heywood)]] {{Mentioned}}
+** [[Kent Nelson (Prime Earth)|Doctor Fate (Kent Nelson)]] {{Mentioned}} 
+** [[Charles McNider (Prime Earth)|Doctor Mid-Nite (Charles McNider)]] {{Deceased}} {{Mentioned}}
+** [[Rex Tyler (Prime Earth)|Hourman (Rex Tyler)]] {{Deceased}} {{Mentioned}}
+** [[Jennifer Pierce (Prime Earth)|Lightning (Jennifer Pierce)]] {{Mentioned}}
+** [[James Corrigan (Prime Earth)|The Spectre (Jim Corrigan)]] {{Mentioned}}
+** [[Thomas Bronson (Prime Earth)|Tomcat/Wildcat (Tommy Bronson)]] {{Mentioned}}
+* [[Justice League (Prime Earth)|Justice League]]
+** [[Ronald Raymond (Prime Earth)|Firestorm (Ronnie Raymond)]] {{Mentioned}}
+** [[Connor Hawke (Prime Earth)|Green Arrow (Connor Hawke)]] {{Mentioned}}
+* [[Justice League International (Prime Earth)|Justice League International]]
+** [[Michael Carter (Prime Earth)|Booster Gold/Michael Jon Carter (Post-Flashpoint)]] {{Mentioned}}
+** [[Tora Olafsdotter (Prime Earth)|Ice]] {{Mentioned}}
+** [[Dmitri Pushkin (Prime Earth)|Rocket Red (Dmitri Pushkin)]] {{Mentioned}}
+* [[Kalibak (Prime Earth)|Kalibak (Post-Flashpoint)]] {{Mentioned}}
+* [[Nanaue (Prime Earth)|King Shark (Nanaue)]] {{Mentioned}}
+* [[Kryptonian Military Guild]] {{Mentioned}}
+* [[Cassandra Cain (Prime Earth)|Lady Shiva]] {{Mentioned}}
+* [[Lagoon Boy (Prime Earth)|Lagoon Boy (La'gaan)]] {{Mentioned}}
+* [[L.E.G.I.O.N. (Prime Earth)|L.E.G.I.O.N.]] {{Mentioned}}
+** [[Vril Dox II (Prime Earth)|Vril Dox II]] {{Mentioned}}
+* [[Legion of Super-Heroes (Pre-Zero Hour)]] {{Mentioned}}
+* [[Justin Ballantine (Prime Earth)|Libra (Justine Ballantine)]]
+* [[Solis (Prime Earth)|Lightray (Post-Flashpoint)]] {{Mentioned}}
+* [[Linear Men (Prime Earth)|Linear Men (Post-Flashpoint)]] {{Mentioned}}
+* [[Lois Lane (Earth-Two)]] {{Mentioned}}
+* [[Lobo II (Prime Earth)|Lobo]] {{Mentioned}}
+* [[Hippolyta Trevor (Prime Earth)|Lyta Hall]] {{Mentioned}}
+* [[Katherine Spencer (Prime Earth)|Manhunter (Kate Spencer)]] {{Mentioned}}
+* [[Manhunters (Prime Earth)|Manhunter Cult]] {{Mentioned}}
+* [[Match (Prime Earth)|Match]] {{Mentioned}}
+* [[Meloni Thawne (Prime Earth)|Meloni Thawne (Post-Flashpoint)]] {{Mentioned}}
+* [[Metropolis Police Department]] {{Mentioned}}
+** [[Margaret Sawyer (Prime Earth)|Det. Maggie Sawyer]] {{Mentioned}}
+** [[Metropolis Special Crimes Unit]] {{Mentioned}}
+* [[Millennium Guard|The Millennium Giants]] {{Mentioned}}
+* [[Bonnie King (Prime Earth)|Miss Arrowette (Bonnie King-Jones)]] {{Mentioned}}
+* [[Henry Hall (Armageddon 2001)|Monarch/Hank Hall (Armageddon 2001)]] {{Mentioned}}
+* [[Henry Hall (Prime Earth)|Monarch/Extant/Hawk (Hank Hall)]] {{Mentioned}}
+* [[Mongal (Prime Earth)|Mongal]] {{Mentioned}}
+* [[Old Gods|Old Gods (Post-Flashpoint)]]
+** [[Mageddon (Prime Earth)|Mageddon]] {{Mentioned}}
+* [[Omni Mind and Community|O.M.A.C.s]] {{Mentioned}}
+* [[Onimar Synn (Prime Earth)|Onimar Synn]]&lt;ref name="Hawkworld" /&gt; {{Mentioned}}
+* [[Grace Balin (Prime Earth)|Orca (Grace Balin)]] {{Mentioned}}
+* [[Order of St. Dumas]] {{Mentioned}}
+** [[Jean-Paul Ludovic Valley (Prime Earth)|Azrael (Jean-Paul Ludovic Valley)]] {{Unnamed}} {{Deceased}} {{Mentioned}}
+* [[Orion (Prime Earth)|Orion (Post-Flashpoint)]] {{Mentioned}}
+* [[Paula Holt (Prime Earth)|Paula Holt]] {{Mentioned}}
+* [[Anthony Ivo (Prime Earth)|Professor Ivo]] {{Mentioned}}
+* [[Q-Society]] {{Mentioned}}
+* [[Victor Sage (Prime Earth)|The Question (Vic Sage)]] {{Mentioned}}
+* [[Colby Zag (Prime Earth)|Rag Doll (Colby Zag)]] {{Mentioned}}
+* [[Ra's al Ghul (Prime Earth)|Ra's al Ghul]] {{Mentioned}}
+* [[Rogues (Prime Earth)|Rogues]] {{Mentioned}}
+** [[Leonard Snart (Prime Earth)|Captain Cold]]&lt;ref name="Linda" /&gt; {{Mentioned}}
+** [[Lisa Snart (Prime Earth)|Golden Glider]]&lt;ref name="Linda" /&gt; {{Mentioned}}
+** [[Axel Walker (Prime Earth)|Trickster (Axel Walker)]] {{Mentioned}}
+* [[Rose Wilson (Prime Earth)|Rose Wilson]] {{Mentioned}}
+* [[Victoria Sinclair (Prime Earth)|Roulette (Victoria Sinclair)]] {{Mentioned}}
+* [[Sarah Essen (Prime Earth)|Sarah Essen-Gordon]] {{Deceased}} {{Mentioned}}
+* [[Secret Society of Super-Villains (Villains United)|Secret Society of Super-Villains]] {{Mentioned}}
+* [[Seven Soldiers (Prime Earth)|Seven Soldiers of Victory]] {{Mentioned}}
+** [[Alix Harrower (Prime Earth)|Bulleteer (Alix Harroweer)]] {{Mentioned}}
+** [[Jake Jordan (Prime Earth)|Manhattan Guardian (Jake Jordan)]] {{Mentioned}}
+** [[Shilo Norman (Prime Earth)|Mister Miracle (Shilo Norman)]] {{Mentioned}}
+** [[Ystin (Prime Earth)|Shining Knight (Sir Ystin)]] {{Mentioned}}
+** [[Zatanna Zatara (Prime Earth)|Zatanna]] {{Mentioned}}
+* [[S.H.A.D.E. (Prime Earth)|S.H.A.D.E.]] {{Mentioned}}
+* [[Sheeda]] {{Mentioned}}
+* [[Shadowpact (Prime Earth)|Shadowpact]] {{Mentioned}}
+** [[Daniel Cassidy (Prime Earth)|Blue Devil (Daniel Cassidy)]] {{Mentioned}}
+** [[Bobo T. Chimpanzee (Prime Earth)|Detective Chimp]] {{Mentioned}}
+** [[Enchantress (Prime Earth)|Enchantress]] [[June Moone (Prime Earth)|(June Moone)]] {{Mentioned}}
+** [[Eve Eden (Prime Earth)|Nightshade (Eve Eden)]] {{Mentioned}}
+** [[Rory Regan (Prime Earth)|Ragman (Rory Regan)]] {{Mentioned}}
+* [[Carl Sands (Prime Earth)|Shadow Thief (Carl Sands)]] {{Mentioned}}
+* [[Shazam Gods]] {{Unnamed}} {{Mentioned}}
+* [[Shiera Sanders (Prime Earth)|Shiera Hall]] {{Mentioned}}
+* [[Solaris (DC One Million)|Solaris the Tyrant Sun (DC One Million)]] {{Mentioned}}
+* [[Cyril Saunders (Prime Earth)|Speed Saunders]] {{Deceased}} {{Mentioned}}
+* [[Star City Police Department]] {{Mentioned}}
+* [[S.T.A.R. Labs]] {{Mentioned}}
+** [[Roger Denning (Prime Earth)|Roger Denning]] {{Mentioned}}
+* [[David Knight (Prime Earth)|Starman (David Knight)]] {{Deceased}} {{Mentioned}}
+* [[Gavyn (Prime Earth)|Starman (Gavyn)]] {{Mentioned}}
+* [[William Payton (Prime Earth)|Starman (Will Payton)]] {{Mentioned}}
+* [[Virgil Hawkins (Prime Earth)|Static (Virgil Hawkins)]] {{Mentioned}}
+* [[Henry Heywood, Sr. (Prime Earth)|Steel (Henry Heywood Sr.)]] {{Mentioned}}
+* [[John Henry Irons (Prime Earth)|Steel (John Henry Irons II)]] {{Mentioned}}
+* [[Kal-El (Earth-Prime)|Superboy-Prime (Earth-Prime)]] {{Mentioned}}
+* [[Kal-L (Earth-Two)|Superman/Clark Kent (Earth-Two)]] {{Deceased}} {{Mentioned}}
+* [[Kal-El (DC One Million)|Superman-Prime (DC One Million)]] {{Mentioned}}
+* [[Superman Villains]]
+** [[Henry Henshaw (Prime Earth)|Cyborg Superman (Hank Henshaw)]] {{Mentioned}}
+** [[Eradicator II (Prime Earth)|The Eradicator]] {{Mentioned}}
+** [[Leslie Willis (Prime Earth)|Livewire (Leslie Willis)]] {{Mentioned}}
+** [[Maxima (Prime Earth)|Maxima]] {{Mentioned}}
+** [[Mongul (Prime Earth)|Mongul MDCCXCI]] {{Mentioned}}
+** [[Mongul II (Prime Earth)|Mongul MDCCXCII]] {{Mentioned}}
+* [[Super Young Team (Prime Earth)|Super Young Team]] {{Mentioned}}
+* [[Swamp Thing (Prime Earth)|The Swamp Thing]] {{Mentioned}}
+* [[Tefé Holland (Prime Earth)|Tefé Holland]] {{Mentioned}}
+* [[Titans of Myth]] {{Mentioned}}
+* [[Thomas Oscar Morrow (Prime Earth)|T.O. Morrow]] {{Mentioned}}
+** [[Tomorrow Woman (Prime Earth)|Tomorrow Woman]] {{Mentioned}}
+* [[United Nations]] {{Mentioned}}
+* [[United States Army]] {{Mentioned}}
+** [[Wade Eiling (Prime Earth)|General Wade Eiling]] {{Mentioned}}
+* [[United States Marine Corps]] {{Mentioned}}
+* [[Vandal Savage (Prime Earth)|Vandal Savage]] {{Mentioned}}
+* [[Vandal Savage (DC One Million)]] {{Mentioned}}
+* [[White Martians]] {{Mentioned}}
+** [[Hyperclan (Prime Earth)|Hyperclan]] {{Mentioned}}
+** [[M'gann M'orzz (Prime Earth)|Miss Martian (M'gann M'orzz)]] {{Mentioned}}
+* [[Jack Wheeler (Prime Earth)|Wild Dog (Jack Wheeler)]] {{Mentioned}}
+* [[Mamaragan (Prime Earth)|The Wizard Shazam (Post-Flashpoint)]] {{Mentioned}}
+* [[Zachary Zatara (Prime Earth)|Zach Zatara]] {{Mentioned}}
+* [[Zamarons]] {{Mentioned}}
+** [[Nadia Safir (Prime Earth)|Nadia Safir]] {{Unnamed}} {{Mentioned}}
+* [[Hunter Zolomon (Prime Earth)|Zoom (Hunter Zolomon)]] {{Mentioned}}
+'''Locations:'''
+* [[Hypertime]] {{BTS}}
+** [[Post-Flashpoint]] Bart Allen's Future {{Unnamed}} 
+*** {{a|[[30th Century]]}}
+**** {{a|[[Earth]]}}&lt;ref name="Impulse" /&gt;
+** {{a|[[Pre-Zero Hour|Pre-Zero Hour Legion's Future]]}}&lt;ref name="3Legions" /&gt; {{Unnamed}}
+*** {{a|[[31st Century]]}}
+**** {{a|[[North Pole]]}} {{Unnamed}}
+** {{a|[[Retroverse]]}}&lt;ref name="Lorena" /&gt; {{Unnamed}}
+*** {{a|[[United States of America]]}}
+**** {{a|[[California]]}}
+***** {{a|[[Sub Diego]]}} {{Unnamed}}
+** {{a|[[Timestream]]}}
+*** {{a|[[Prehistoric Era]]}}&lt;ref name="Armageddon" /&gt;
+** [[Armageddon 2001|Armageddon 2001 Future]] {{Unnamed}} {{Mentioned}}
+** [[DC One Million]] {{Unnamed}} {{Mentioned}}
+*** [[853rd Century]] {{Mentioned}}
+** [[Pocket Universe|Earth-23/"Pocket Universe"]] {{Unnamed}} {{Mentioned}}
+** [[Post-Flashpoint]] Booster Gold's Future {{Unnamed}} 
+*** [[25th Century]] {{Mentioned}}
+** [[Vanishing Point]] {{Mentioned}}
+* [[Multiverse-1]] {{BTS}}
+** {{a|[[Prime Earth|Earth 0]]}}
+*** {{a|[[Earth]]}}
+**** {{a|[[Antarctica]]}}&lt;ref name="Matrix" /&gt;&lt;ref name="Zod" /&gt; {{Unnamed}}
+**** {{WP|Balkans}}&lt;ref name="Savitar" /&gt; {{Unnamed}}
+***** Savitar's Fortress
+**** {{a|[[China]]}}
+***** {{a|[[Hong Kong]]}}&lt;ref name="Lian" /&gt; {{Unnamed}}
+****** Jade Nguyen's Residence 
+**** {{a|[[Switzerland]]}}
+***** {{a|[[Alps]]}}
+****** {{a|[[Checkmate Headquarters]]}}&lt;ref name="Countdown" /&gt;
+**** {{a|[[Paradise Island|Themyscira]]}}&lt;ref name="Artemis" /&gt;
+**** {{a|[[United States of America]]}}
+***** {{a|[[Alabama]]}} {{Unnamed}}
+****** {{a|[[Manchester, Alabama|Manchester]]}}&lt;ref name="Arrowette" /&gt; {{Unnamed}}
+******* Reagan Junior High School {{1stUnnamed}}
+***** {{a|[[California]]}}
+****** {{a|[[Gateway City]]}}&lt;ref name="Damage" /&gt;
+******* [[Gateway City Museum of Antiquities]] {{Mentioned}}
+****** {{a|[[San Diego]]}}
+******* Baker House&lt;ref name="Baker" /&gt;&lt;ref name="Mirror" /&gt;
+****** {{a|[[San Francisco]]}}&lt;ref name="Zauriel" /&gt;
+******* {{a|[[San Francisco Bay]]}} {{Unnamed}}
+****** {{a|[[Silicon Valley]]}}&lt;ref name="Graduation" /&gt;
+****** {{a|[[Star City]]}}
+******* {{a|[[Arrowcave|Green Arrow's Lair]]}}&lt;ref name="Mia" /&gt;
+***** {{a|[[Delaware]]}}
+****** {{a|[[Metropolis]]}}
+******* {{a|[[Bakerline]]}}
+******** 2109 Port Rond. E.&lt;ref name="Orchid" /&gt; {{Unnamed}}
+********* Sylvian Mansion
+***** {{a|[[Oregon]]}}
+****** {{a|[[Vanity]]}}&lt;ref name="Aztek" /&gt;
+****** [[Portsmouth City]] {{Mentioned}}
+***** {{a|[[Kansas]]}}
+****** {{a|[[Keystone City]]}}
+******* {{a|[[Garrick Laboratories|Garrick Labs]]}}&lt;ref name="Crisis"&gt;From {{c|Crisis on Infinite Earths Vol 1 12}}&lt;/ref&gt; {{Unnamed}}
+***** {{a|[[Missouri]]}}
+****** {{a|[[Central City]]}}&lt;ref name="Park-West" /&gt;
+***** {{a|[[New Jersey]]}}
+****** {{a|[[Gotham City]]}}
+******* {{a|[[Batcave]]}}&lt;ref name="Damian" /&gt; {{Green|Also in ruins}}&lt;ref name="Cataclysm"&gt;From {{c|Batman: Shadow of the Bat Vol 1 73}}&lt;/ref&gt;
+******* Dubelz Mansion&lt;ref name="Hitman" /&gt; {{Unnamed}}
+******* Ventriloquist Club&lt;ref name="Scarface" /&gt; {{Unnamed}}
+******* [[Arkham Asylum]] {{Mentioned}}
+****** [[Bludhaven]] {{Mentioned}}
+***** {{a|[[New Mexico]]}}
+****** {{a|[[Swainsville, New Mexico|Swainsville]]}}&lt;ref name="Linda" /&gt; {{1stUnnamed}}
+***** {{a|[[New York]]}}
+****** {{a|[[New York City]]}}
+******* {{a|[[Brooklyn]]}}
+******** {{a|[[Outsiders Headquarters]]}}&lt;ref name="Outsiders" /&gt;
+******* {{a|[[East River]]}} 
+******** {{a|[[Titans Tower|Titans Tower I]]}}&lt;ref&gt;From {{c|Legends Vol 1 3}}&lt;/ref&gt; {{Unnamed}}
+******* {{a|[[Justice League Embassy]]}}&lt;ref name="TaskForce" /&gt;
+******* {{a|[[Manhattan]]}}
+******** {{a|[[Battery Park]]}}
+********* {{a|[[JSA Headquarters]]}}&lt;ref name="JSA" /&gt;&lt;ref name="NextAge" /&gt;
+****** {{a|[[Time Lab]]}}&lt;ref name="TimeMasters" /&gt;
+***** {{a|[[Philadelphia]]}}
+****** {{a|[[Pennsylvania]]}}&lt;ref name="Ray" /&gt;
+***** {{a|[[South Carolina]]}}
+****** {{a|[[Orangeburg]]}}&lt;ref name="Chapel" /&gt; {{1stUnnamed}}
+***** {{a|[[Virginia]]}}
+****** {{a|[[Langley]]}}&lt;ref name="Major" /&gt; {{Unnamed}}
+******* WTOG Station
+***** {{a|[[Washington]]}}
+****** {{a|[[Seattle]]}}&lt;ref name="Longbow" /&gt; 
+***** {{a|[[Washington, D.C.]]}}
+****** {{a|[[White House]]}}&lt;ref name="Lex2000" /&gt; 
+******* {{WP|Oval Office}}
+****** [[Los Angeles]] {{Mentioned}}
+***** [[Delta City]] {{Mentioned}}
+***** [[Maryland]]
+****** [[Opal City]] {{Mentioned}}
+***** [[Quad Cities]] {{Mentioned}}
+***** [[Texas]] {{Mentioned}}
+****** [[Dos Rios]] {{Mentioned}}
+**** [[Brazil]] {{Mentioned}}
+**** [[Norway]] {{Mentioned}}
+**** [[Qurac]]
+***** [[Bana-Mighdall]] {{Mentioned}}
+**** [[Santa Prisca]] {{Mentioned}}
+***** [[Peña Duro]] {{Unnamed}} {{Mentioned}}
+*** {{a|[[Earth's Moon|The Moon]]}}
+**** {{a|[[Justice League Watchtower]]}}&lt;ref name="Prometheus" /&gt;&lt;ref name="OneMillion" /&gt;
+*** {{a|[[Oa]]}}&lt;ref name="Emerald" /&gt;
+**** {{a|[[Oan Citadel]]}} 
+*** {{a|[[Solar System|The Sun]]}}&lt;ref name="FinalNight" /&gt;
+*** {{a|[[Thanagar]]}}&lt;ref name="Hawkworld" /&gt;
+*** [[Almerac]] {{Mentioned}}
+*** [[Okaara]] {{Mentioned}}
+*** [[Rann]] {{Mentioned}}
+** {{a|[[Microverse]]}}&lt;ref name="Choi" /&gt; {{Unnamed}}
+** {{a|[[Mirror World]]}}&lt;ref name="Mirror" /&gt; {{BTS}}
+** {{a|[[Monitor Sphere]]}}
+*** {{a|[[Nil]]}}&lt;ref name="Mandrakk" /&gt; {{Unnamed}}
+** {{a|[[Rock of Eternity]]}}&lt;ref name="Shazam" /&gt; {{Unnamed}}
+** {{a|[[Speed Force]]}} {{BTS}}
+** {{a|[[Sphere of the Gods]]}} {{BTS}}
+*** {{a|[[Hell|Hell/"The Underworld"]]}}&lt;ref name="Neron" /&gt;
+*** {{a|[[Skyland]]}} {{Unnamed}}
+**** {{a|[[Mount Olympus|New Olympus]]}}&lt;ref name="WarofGods" /&gt;
+*** [[The Dreaming]] {{Mentioned}}
+*** [[Heaven]] {{Mentioned}}
+*** [[Underworld]] {{Mentioned}}
+**** [[Phantom Zone]] {{Mentioned}}
+* [[Interregnum Multiverse]] {{BTS}}
+** {{a|[[Earth-One]]}}&lt;ref name="Jaime" /&gt; {{Unnamed}}
+* [[Multiverse-2]]
+** [[Earth-Two|Earth-2/Earth-Two]] {{Destroyed}} {{Mentioned}}
+** [[Earth-Prime]] {{Destroyed}} {{Mentioned}}
+* [[Pre-Flashpoint Multiverse]] {{Unnamed}}
+** [[Orrery of Worlds]] {{Mentioned}}
+'''Items:'''
+* Arrowette's Bow&lt;ref name="Arrowette" /&gt;
+* Aztek's Battlesuit&lt;ref name="Aztek" /&gt;
+* {{a|[[Batcomputer]]}}&lt;ref name="Damian" /&gt; {{Cameo}}
+* {{a|[[Batman's T-Rex]]}}&lt;ref name="Cataclysm" /&gt; {{Cameo}}
+* {{a|[[Batsuit]]}}
+* {{a|[[Bio-Belt]]}}&lt;ref name="Choi" /&gt;
+* {{a|[[Khaji Da (Prime Earth)|Blue Beetle Scarab]]}}&lt;ref name="Jaime" /&gt; {{Unnamed}}
+* {{a|[[Blue Lantern Ring]]s}}&lt;ref name="Corps" /&gt;
+* [[Cosmic Converter Belt]] {{Mentioned}}
+* [[Cosmic Staff]] {{Mentioned}}
+* [[Cosmic Treadmill]] {{Mentioned}}
+* {{a|[[Giant Joker Card]]}}&lt;ref name="Cataclysm" /&gt; {{Cameo}}
+* {{a|[[Giant Penny]]}}&lt;ref name="Cataclysm" /&gt; {{Cameo}}
+* Green Arrow's Bow
+** {{a|[[Trick Arrows]]}}
+* {{a|[[Green Lantern Ring]]s}}
+* {{a|[[Helmet of Aztek]]}}&lt;ref name="Aztek" /&gt;
+* {{a|[[Indigo Lantern Ring]]s}}&lt;ref name="Corps" /&gt;
+* {{a|[[Indigo Tribe Staff]]}}&lt;ref name="Corps" /&gt;
+* Inertia's Ring&lt;ref name="Inertia" /&gt;
+* [[Lazarus Pit]] {{Mentioned}}
+* {{a|[[Mirror Gun]]}}&lt;ref name="Mirror" /&gt;
+* Mistress Axe&lt;ref name="Artemis" /&gt;
+* {{a|[[Nth Metal]]}}&lt;ref name="Hawkworld" /&gt;
+* Prometheus' Helmet&lt;ref name="Prometheus" /&gt;
+* Prometheus' Suit&lt;ref name="Prometheus" /&gt;
+* {{a|[[Red Lantern Ring]]s}}&lt;ref name="Corps" /&gt;
+* {{a|[[Scarface Puppet]]}}&lt;ref name="Scarface" /&gt;
+* Speedy's Bow&lt;ref name="Mia" /&gt;
+* {{a|[[Star Sapphire Ring]]s}}&lt;ref name="Corps" /&gt;
+* {{a|[[Thought Robot]]}}&lt;ref name="Mandrakk" /&gt;
+* {{a|[[Yellow Lantern Ring]]s}}&lt;ref name="Corps" /&gt;
+'''Vehicles:'''
+* {{a|[[Batmobile]]}}&lt;ref name="Cataclysm" /&gt; {{Cameo}}
+* {{a|[[Bunny (The Elite)|Bunny]]}}&lt;ref name="Elite" /&gt; {{1stUnnamed}}
+* Reach spaceship&lt;ref name="Reach" /&gt; {{Unnamed}}
+* [[Space Shuttle Excalibur]] {{Unnamed}} {{Destroyed}} {{Mentioned}}
+* {{a|[[Super-Cycle]]}}&lt;ref name="YJ" /&gt; {{Unnamed}}
+* {{a|[[Time Sphere]]}}&lt;ref name="TimeMasters" /&gt; {{Ruins}}
+'''Events:'''
+* [[Big Bang (Dakotaverse)|Dakota City's Big Bang]] {{Mentioned}}
+* [[Bloodlines (storyline)|Bloodlines Invasion]] {{Mentioned}}
+* [[Justice League Vol 2 0|The Calling of Billy Batson]] &lt;ref name="Shazam" /&gt;
+* [[The Cataclysm]]&lt;ref name="Cataclysm" /&gt;
+* [[Titans/Young Justice: Graduation Day|The Clash between Titans and Young Justice]]&lt;ref name="Graduation" /&gt;
+* [[Wonder Woman: The Contest|The Contest]]&lt;ref name="Artemis" /&gt; {{Unnamed}} 
+* [[Cosmic Odyssey]] {{Mentioned}} 
+* [[Countdown to Infinite Crisis]]
+** [[Day of Vengeance]] {{Unnamed}} {{Mentioned}}
+** [[Countdown to Infinite Crisis Vol 1 1|Death of Ted Kord]]&lt;ref name="Countdown" /&gt;
+** [[Rann-Thanagar War]] {{Mentioned}}
+** [[Villains United]]&lt;ref name="Villains" /&gt;
+* {{a|[[Crisis on Infinite Earths]]}}&lt;ref name="Crisis" /&gt;
+* [[Day of Judgment]]&lt;ref name="DayofJudgment" /&gt;
+* [[Green Arrow Vol 2 101|The Death of Green Arrow]] {{Mentioned}}
+* [[Wonder Woman Vol 2 219|Death of Maxwell Lord]] {{Mentioned}}
+* [[Death of Superman]]&lt;ref name="Death" /&gt; 
+* [[Emerald Twilight]]&lt;ref name="Emerald" /&gt;
+* [[Final Crisis]]
+** [[Legion of 3 Worlds]]&lt;ref name="3Legions" /&gt;
+** [[Final Crisis: Superman Beyond|The Rise and Fall of Mandrakk]]&lt;ref name="Mandrakk" /&gt;
+* [[The Final Knight]]&lt;ref name="FinalNight" /&gt;
+* [[Infinite Crisis]]
+* [[Invasion!|The Invasion]] {{Mentioned}}
+* [[The Killing Joke]] {{Mentioned}}
+* [[Knightfall (storyline)|Knightfall]] {{Mentioned}}
+* [[Legends (event)|Legends Riots]]
+* [[The Lightning Saga]] {{Unnamed}} {{Mentioned}}
+* [[Millennium|Millennium Event]] {{Mentioned}}
+* [[No Man's Land (storyline)|No Man's Land]] {{Mentioned}}
+* [[Olympic Games]] {{Mentioned}}
+* [[52 Vol 1|One-Year Gap]] {{Mentioned}}
+** [[Convergence: Superman Vol 1 2|The Birth of Jon Kent]]
+** [[World War III]] {{Mentioned}}
+* [[Reign of the Supermen]] {{Mentioned}}
+* [[Green Lantern: Rebirth|The Resurrection of Hal Jordan]]
+* [[The Flash: Dead Heat|Savitar's Uprising]]&lt;ref name="Savitar" /&gt;
+* [[Batman: Hush|The Rise of Hush]]&lt;ref name="Hush" /&gt;
+* [[Millennium Giants|The Rise of the Millennium Giants]] {{Mentioned}}
+* [[Batman: Under the Hood|Under the Hood]] {{Mentioned}}
+* [[War of the Gods]]&lt;ref name="WarofGods" /&gt;
+* [[The Flash Vol 2 159|The Wedding of Wally West and Linda Park]]&lt;ref name="Park-West" /&gt;
+* [[World Without Grown-Ups]] {{Mentioned}}
+* [[Zero Hour]] {{Mentioned}}
+'''Concepts:'''
+* [[Tower of Babel|Anti-JLA Protocols]] {{Mentioned}}
+* [[Anti-Life Equation]] {{Mentioned}}
+* {{a|[[Emotional Electromagnetic Spectrum]]}}
+* [[Everyman Project]] {{Mentioned}}
+* {{a|[[Magic]]}}
+* {{a|[[Metahumans]]}}
+* [[Possible Futures]]
+* [[Omega Beams]] {{Mentioned}}
+* [[The Red]] {{Unnamed}} {{Mentioned}}
+* {{a|[[Time Travel]]}}
+* [[Zur-En-Arrh]] {{Mentioned}}
+
+==Notes==
+* This issue continues retelling the history of the [[Dark Nights: Death Metal Vol 1 7|''reborn'']] iteration of [[Prime Earth]]. The events depicted in this issue span from the aftermath of ''[[Crisis on Infinite Earths]]'' to the return of Barry Allen in '' [[Final Crisis]] '', adapting the ''[[Modern Age]]'' events within the continuity of [[Prime Earth]].
+* There are many changes to the DC continuity: &lt;!-- to be updated --&gt;
+** According to this issue, the Supergirl who died in ''[[Crisis on Infinite Earths]]'' is the one and same Supergirl who debuted in ''[[The Supergirl from Krypton]]'' storyline. In the new continuity, Darkseid resurrected her, rather than her having come from Krypton.
+*** However, as mentioned in the issue, the Matrix Supergirl existed in the past of Prime Earth. This was first shown in {{c|The Return of Superman 30th Anniversary Special Vol 1 1}}.
+* Many events and concepts are missing in the new history of the DC Multiverse: &lt;!-- to be updated --&gt; 
+** The existence of the [[Thanagarian]] Hawks&amp;ndash; Katar Hol and Shayera Thal&amp;ndash; is completely missing. However, many events from across the ''[[DC Rebirth]]'', ''[[Infinite Frontier]]'', ''[[Dawn of DC]]'', and ''[[All In]]'' eras have shown that Katar has existed&amp;ndash; until the ''[[Death of Hawkman]]'' storyline&amp;ndash; on Prime Earth and Shayera is still alive as of {{v|Green Lantern Corps Vol 4}}.
+*** The "''Heartbreak Lake''" story from {{c|DC's Lex and the City Vol 1 1}}&amp;ndash; implied to be canon during Shayera's appearances from ''Green Lantern Corps''&amp;ndash; explicitly reveals that Katar and Shayera disguised themselves for a time as [[Carter Hall]] and [[Shiera Sanders]] during the "[[Modern Age]]" in the new continuity.
+** It remains unclear whether the Earth-born Supergirl, [[Linda Danvers (New Earth)|Linda Lee Danvers]] has existed at some point in time on Prime Earth.
+&lt;!--* There are also several inaccuracies in this issue: --&gt; &lt;!-- to be updated --&gt;
+* The DC Timeline is based on research by [[Mark Waid]] and [[Dave Wielgosz]]. There is also a special thanks to [[John Wells]].
+
+==Trivia==
+==See Also==
+* [[:Category:New History of the DC Universe Vol 1 3/Images|Images from New History of the DC Universe Vol 1 3]]
+==Links and References==
+[[Category:2025]]
+[[Category:2025, November]]
+[[Category:September 24, 2025 (Publication)]]
+[[Category:2025, September (Publication)]]
+[[Category:New History of the DC Universe Vol 1]]
+{{Missing Characters}} &lt;!-- a member of the L.E.G.I.O.N. from the first story, second story --&gt;</text>
+      <sha1>1twbdchs2n93b10g5pbdhkhkjupnw87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Green Arrow Vol 7 28</title>
+    <ns>0</ns>
+    <id>793485</id>
+    <revision>
+      <id>3822728</id>
+      <parentid>3822720</parentid>
+      <timestamp>2025-09-29T14:26:03Z</timestamp>
+      <contributor>
+        <username>MorTheSuperMariner</username>
+        <id>10296195</id>
+      </contributor>
+      <origin>3822728</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2878" sha1="9xvotlzapx9cidgqon49jq5w7o0u35n" xml:space="preserve">{{DC Database:Comic Template
+| Title               = Green Arrow
+| Image               = Green Arrow Vol 7 28.jpg
+| Image2              = Green Arrow Vol 7 28 Textless.jpg
+| Image2Text          = Textless
+| Image4              = Green Arrow Vol 7 28 Textless Variant.jpg
+| Image4Text          = Textless Variant
+| Image5              =
+| Image5Text          =
+| Image6              =
+| Image6Text       
+| Volume              = 7
+| Issue               = 28
+| Day                 = 24
+| Month               = 11
+| Year                = 2025
+| Rating              = T
+
+| Event               = All In
+
+| Executive Editor    = Marie Javins
+| CoverArtist1        = Taurin Clarke
+| CoverArtist2        = 
+| CoverArtist3        = 
+| Cover2Artist1       =Brian Level 
+| Cover3Artist1       =
+| Cover4Artist1       = 
+
+
+| Writer1_1           = Chris Condon
+| Penciler1_1         = Montos
+| Inker1_1            = Montos
+| Colorist1_1        = Adriano Lucas
+| Letterer1_1         = Buddy Beaudoin
+| Editor1_1           = Chris Rosa
+| Editor1_2           = Paul Kaminski
+
+| Quotation           = I feel like I've seen [[Hector Vance (Prime Earth)|that face]] before...
+| Speaker             = [[Oliver Queen (Prime Earth)|Green Arrow (Oliver Queen)]]
+
+| StoryTitle1         = Crimson Sands, Part Four
+| Synopsis1           = 
+
+| Appearing1 = 
+'''Featured Characters:'''
+* {{a|[[Oliver Queen (Prime Earth)|Green Arrow (Oliver Queen)]]}}
+'''Supporting Characters:'''
+* {{a|[[Roy Harper (Prime Earth)|Arsenal (Roy Harper)]]}}
+* {{a|[[Lian Harper (Prime Earth)|Cheshire Cat (Lian Harper)]]}}
+* {{a|[[Star City Police Department]]}}
+** {{a|[[Anton Marko (Prime Earth)|Officer Anton Marko]]}} {{1st}}
+** Officer Gates {{1st}} {{Cameo}}
+** {{a|[[Lena Benítez (Prime Earth)|Det. Lena Benítez]]}}
+** Officer Sanchez {{1st}} {{Cameo}}
+'''Antagonists:'''
+* {{a|[[Albert Noyce (Prime Earth)|Albert Noyce]]}} {{Cameo}}
+* {{a|[[Crimson Archer II (Prime Earth)|Crimson Archer]]}} {{Flashback}} {{Cameo}} 
+'''Other Characters:'''
+* {{a|[[Hector Vance (Prime Earth)|Hector Vance]]}} {{Photo}}
+* [[Jade Nguyen (Prime Earth)|Cheshire]] {{Mentioned}}
+* [[Robert Queen (Prime Earth)|Robert Queen]] {{Mentioned}}
+'''Locations:'''
+* {{a|[[Prime Earth|Earth 0]]}}
+** {{a|[[United States of America]]}}
+*** {{a|[[Star City]]}} 
+**** AdVance Pharma {{1st}} {{Cameo}}
+**** {{a|[[SCPD Headquarters]]}}
+**** {{a|[[Star City General Hospital|Star City Hospital]]}}
+** {{a|[[Vietnam]]}} {{Cameo}}
+'''Items:'''
+* Crimson Archer's Bow {{Flashback}}
+** {{WP|Hypodermic needle|Hypodermic Arrow}}
+* {{a|[[Drugs]]}}
+** {{a|[[Crimson Sand|Aleria/Crimson Sand]]}}
+* Green Arrow's Bow
+** {{a|[[Trick Arrows]]}}
+* Roy Harper's Bow
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Notes               = 
+* This issue carries the legacy numbering {{c|Green Arrow Vol 1 361}}.
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+}}</text>
+      <sha1>9xvotlzapx9cidgqon49jq5w7o0u35n</sha1>
     </revision>
   </page>
 </mediawiki>
