@@ -1,3 +1,5 @@
+import { AppearancesResponse } from "./types.js";
+
 export async function getAppearances(charName: string): Promise<string[]> {
   let cmcontinue: string | undefined = "";
   let appearances = [];
@@ -36,21 +38,6 @@ export async function getAppearances(charName: string): Promise<string[]> {
   return appearances.map((appearance) => {
     return appearance.title;
   });
-}
-
-interface AppearancesResponse {
-  batchcomplete: string;
-  continue: {
-    cmcontinue: string;
-    continue: string;
-  };
-  query: { categorymembers: CategoryMember[] };
-}
-
-interface CategoryMember {
-  pageid: number;
-  ns: number;
-  title: string;
 }
 
 // FIXME: Should return an object fitting the export

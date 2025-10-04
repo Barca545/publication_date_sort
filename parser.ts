@@ -1,5 +1,7 @@
+import XML from "xml-js";
 import { Peekable } from "./iter.js";
 import { None, Option, Some } from "./option.js";
+import { AppearancesDataResponse } from "./types.js";
 
 export class TemplateParser {
   readonly src: Peekable<string>;
@@ -110,6 +112,7 @@ export class TemplateParser {
   }
 }
 
+// TODO: This should probably be moves to the types file
 export class Template {
   private name: Option<string>;
   private data: Map<string, Template | string>;
@@ -178,4 +181,13 @@ enum ParsingStage {
 // TODO: Delete writing console.log() got annoying
 function dbg(message: any) {
   console.log(message);
+}
+
+export function xmlToJSON(src: string): AppearancesDataResponse {
+  return JSON.parse(
+    XML.xml2json(src, {
+      compact: true,
+      spaces: 4,
+    })
+  );
 }

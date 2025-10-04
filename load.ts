@@ -7,7 +7,7 @@ import { TemplateParser } from "./parser.js";
 /**
  * Load an xml file from the provided path and load
  */
-export function loadJson(path: string): any {
+export function toJson(path: string): any {
   // Load the XML file as a string then convert it to a JSON string then convert it into an object
   return JSON.parse(
     convert.xml2json(fs.readFileSync(path, "utf-8"), {
@@ -23,8 +23,8 @@ export function loadJson(path: string): any {
  * @returns
  */
 export function loadList(path: string): ListEntry[] {
-  // Load the file
-  const json = loadJson(path);
+  // Load the file and convert it to a json
+  const json = toJson(path);
 
   // Convert each appearance into a list entry
   let appearances: ListEntry[] = [];

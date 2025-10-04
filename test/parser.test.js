@@ -1,7 +1,8 @@
 import test from "node:test";
 import assert from "node:assert";
-import { TemplateParser, Template } from "../parser";
+import { TemplateParser, Template, xmlToJSON as xmlToJSON } from "../parser";
 import { isEqual } from "lodash-es";
+import fs from "fs";
 
 test("consumeIf", (_) => {
   const template = "ABC";
@@ -19,11 +20,6 @@ test("Parse single level template w/ key & value", (_) => {
   expected.setName("Name");
   expected.set("Key", "Value");
 
-  // console.log("res");
-  // console.log(res);
-  // console.log("expected");
-  // console.log(expected);
-
   return assert(isEqual(res, expected));
 });
 
@@ -31,11 +27,6 @@ test("Parse single level template only name", (_) => {
   const template = "{{Name}}";
   const res = new TemplateParser(template).parse(true);
   let expected = new Template().setName("Name");
-
-  // console.log("res");
-  // console.log(res);
-  // console.log("expected");
-  // console.log(expected);
 
   return assert(isEqual(res, expected));
 });
@@ -47,15 +38,10 @@ test("Parse 2 level nested template only name", (_) => {
   expected.setName("Name");
   expected.set("Key", new Template().setName("Value"));
 
-  // console.log("res");
-  // console.log(res);
-  // console.log("expected");
-  // console.log(expected);
-
   return assert(isEqual(res, expected));
 });
 
-test("Parse 3 level nested template", (_) => {
+test("Parse 3 level nested template", (_t) => {
   const template = "{{Name|Key = {{Name1|Key1 = {{Name2|Key2 = {{Value}}}}}}}}";
   const res = new TemplateParser(template).parse(true);
   let expected = new Template();
@@ -66,6 +52,20 @@ test("Parse 3 level nested template", (_) => {
   expected.setName("Name").set("Key", name1);
 
   return assert(isEqual(res, expected));
+});
+
+test("XML to JSON", (_t) => {
+  const xml = fs.readFileSync(
+    process.cwd() + "/test/Scarlett Scott Apearances.xml",
+    "utf-8"
+  );
+
+  const list = xmlToJSON(xml);
+
+  // console.log(list);
+  console.log(list.mediawiki);
+
+  // assert(isEqual(list,))
 });
 
 // function assert_eq(a, b) {
