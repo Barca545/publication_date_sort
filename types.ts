@@ -14,12 +14,11 @@ export interface AppearancesDataResponse {
       generator: { _text: string };
       case: { _text: string };
       namespaces: {
-        namespace: {
-          _attributes: { key: string; case: string };
-          _text: string;
-        }[];
+        // This namespace tag occurs because it is a group that all shared the tag namespace
+        namespace: NameSpace[];
       };
     };
+    page: Page[];
   };
 }
 
@@ -32,6 +31,7 @@ interface Page {
     parentid: { _text: string };
     timestamp: { _text: string };
     contributor: { username: { _text: string }; id: { _text: string } };
+    comment?: { _text: string };
     origin: { _text: string };
     model: { _text: string };
     format: { _text: string };
@@ -40,10 +40,15 @@ interface Page {
         bytes: string;
         sha1: string;
       };
-      text: string;
+      _text: string;
     };
     sha1: { _text: string };
   };
+}
+
+interface NameSpace {
+  _attributes: { key: string; case: string };
+  _text?: string;
 }
 
 export interface AppearancesResponse {
