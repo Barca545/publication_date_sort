@@ -1,15 +1,17 @@
 import test from "node:test";
-import { loadList, loadJson } from "../load";
+import { loadList, loadAsJson } from "../load";
 import fs from "fs";
 import assert from "node:assert";
 import { ListEntry } from "../pub-sort";
 import { isEqual } from "lodash-es";
 
 test("load xml file as a JSON", (_t) => {
-  const json = loadJson(process.cwd() + "/test/Scarlett Scott Apearances.xml");
+  const json = loadAsJson(
+    process.cwd() + "/test/Scarlett Scott Apearances.xml"
+  );
   // TODO: Add this to the load function to get at the text
   // Will need to loop over numbers not just use 0
-  const result = json["mediawiki"]["page"][0]["revision"]["text"]["_text"];
+  const result = json.mediawiki.page[0].revision.text._text;
 
   const expected = fs.readFileSync(
     process.cwd() + "/test/test_scarlett_first_appearance_test.txt",

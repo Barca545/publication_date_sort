@@ -1,8 +1,9 @@
 import test from "node:test";
 import assert from "node:assert";
-import { TemplateParser, Template, xmlToJSON as xmlToJSON } from "../parser";
+import { TemplateParser, xmlToJSON as xmlToJSON } from "../parser";
 import { isEqual } from "lodash-es";
 import fs from "fs";
+import { Template } from "../types";
 
 test("consumeIf", (_) => {
   const template = "ABC";
@@ -61,8 +62,6 @@ test("XML to JSON", (_t) => {
   );
 
   const list = xmlToJSON(xml);
-
-  console.log(list.mediawiki.siteinfo.namespaces);
 
   const expected = {
     mediawiki: {

@@ -1,0 +1,768 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>DC Database</sitename>
+    <dbname>endcdatabase</dbname>
+    <base>https://dc.fandom.com/wiki/DC_Comics_Database</base>
+    <generator>MediaWiki 1.43.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">DC Database</namespace>
+      <namespace key="5" case="first-letter">DC Database talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="112" case="first-letter">News</namespace>
+      <namespace key="113" case="first-letter">News talk</namespace>
+      <namespace key="114" case="first-letter">Blogs</namespace>
+      <namespace key="115" case="first-letter">Blogs talk</namespace>
+      <namespace key="116" case="first-letter">Portal</namespace>
+      <namespace key="117" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">DC Universe</namespace>
+      <namespace key="119" case="first-letter">DC Universe talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+      <namespace key="2900" case="first-letter">Map</namespace>
+      <namespace key="2901" case="first-letter">Map talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Superboy Vol 1 7</title>
+    <ns>0</ns>
+    <id>124128</id>
+    <revision>
+      <id>3333552</id>
+      <parentid>3068806</parentid>
+      <timestamp>2023-08-10T08:20:02Z</timestamp>
+      <contributor>
+        <username>TupBot217</username>
+        <id>25983018</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */renaming parameter</comment>
+      <origin>3333552</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3103" sha1="5m42etmsppmqzs4r7t5ablv5w77ok27" xml:space="preserve">{{DC Database:Comic Template
+| Title               = Superboy
+| Image               = Superboy Vol 1 7.jpg
+| Volume              = 1
+| Issue               = 7
+| Month               = 3
+| Year                = 1950
+
+| Executive Editor    = Whitney Ellsworth
+| CoverArtist1        = John Sikela
+
+| Editor1_1           = Jack Schiff
+| Writer1_1           = 
+| Penciler1_1         = Wayne Boring
+| Inker1_1            = Stan Kaye
+| Colorist1_1        = 
+| Letterer1_1         = 
+
+| Writer2_1           = Bill Finger
+| Penciler2_1         = John Sikela
+| Inker2_1            = Ed Dobrotka
+
+| Writer3_1           = William Woolfolk
+| Penciler3_1         = John Sikela
+| Inker3_1            = Ed Dobrotka
+
+| Quotation           = 
+| Speaker             = 
+
+| StoryTitle1         = Around the World with Superboy
+| Synopsis1           = Doris Faris and Fred Leeds, the winners of the "Why I Like Superboy" contest, are brought to [[Smallville]] with an airport reception headed by Superboy.  The Boy of Steel promises to grant their most heartfelt wishes.  Doris says she would like to take a round-the-world trip, and Fred wants to see Superboy use all his super-powers.  [[Kal-El (Earth-One)|Superboy]] combines the two, using his powers on a round-the-world trip on which he takes them.  He tells them that there is a puzzle connected with the places they visit, and they deduce it at the end...the first letters of Formosa, Rhodesia, Etah, Donghoi, Dera Bust, Old Faithful, Rio de Janeiro, Iran, and Smallville spell out FRED and DORIS. 
+
+| StoryTitle2         = Dolls of Danger!
+| Synopsis2           = [[Robert Hobb (Earth-One)|Humpty Dumpty]] breaks jail and tries to confound Superboy with a series of doll thefts for his collection, but the Boy of Steel prevails and recaptures him. 
+
+| StoryTitle3         = The Man Who Knew Superboy's Secret Identity!
+| Synopsis3           = Reporter Pete Bates thinks he has determined Superboy's secret identity to be Clark Kent from clues left behind in the late curiosity-seeker Rod Rudley's notebook, but Clark manages to convince Bates that he is wrong. 
+
+| Appearing1          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Other Characters:'''
+* Doris Faris
+* Fred Leeds
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}}&lt;!-- 
+'''Supporting Characters:'''
+* &lt;br/&gt;
+'''Antagonists:'''
+* &lt;br/&gt;
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt; --&gt;
+
+| Appearing2          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Antagonists:'''
+* {{a|[[Robert Hobb (Earth-One)|Humpty Dumpty]]}}&lt;!-- 
+'''Supporting Characters:'''
+* &lt;br/&gt;
+'''Other Characters:'''
+* &lt;br/&gt;
+'''Locations:'''
+* &lt;br/&gt;
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt; --&gt;
+
+| Appearing3          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}} 
+'''Supporting Characters:'''
+* &lt;br/&gt;
+'''Antagonists:'''
+* Pete Bates {{only}}
+'''Other Characters:'''
+* &lt;br/&gt;
+'''Locations:'''
+* &lt;br/&gt;
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Notes               = 
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+}}</text>
+      <sha1>5m42etmsppmqzs4r7t5ablv5w77ok27</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Superboy Vol 1 8</title>
+    <ns>0</ns>
+    <id>124129</id>
+    <revision>
+      <id>3333554</id>
+      <parentid>3228109</parentid>
+      <timestamp>2023-08-10T08:20:05Z</timestamp>
+      <contributor>
+        <username>TupBot217</username>
+        <id>25983018</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */renaming parameter</comment>
+      <origin>3333554</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3182" sha1="kb01b9h6ux6kys5nggyjj6dy7ysl8pe" xml:space="preserve">{{DC Database:Comic Template
+| Title               = Superboy 
+| Image               = Superboy Vol 1 8.jpg
+| Volume              = 1
+| Issue               = 8
+| Month               = 5
+| Year                = 1950
+
+| Executive Editor    = Whitney Ellsworth
+| CoverArtist1        = Al Plastino
+
+| Editor1_1           = Jack Schiff
+| Writer1_1           = Bill Finger
+| Penciler1_1         = Curt Swan
+| Inker1_1            = John Fischetti
+| Colorist1_1        = 
+| Letterer1_1         = 
+
+| Writer2_1           = Bill Finger
+| Penciler2_1         = John Sikela
+| Inker2_1            = Ed Dobrotka
+
+| Writer3_1           = Edmond Hamilton
+| Penciler3_1         = John Sikela
+| Inker3_1            = Ed Dobrotka
+
+| Quotation           = 
+| Speaker             = 
+
+| StoryTitle1         = When Superboy was a Superbaby!
+| Synopsis1           = When Clark Kent and [[Martha Kent]] look through a scrapbook of [[Kal-El (Earth-One)|Superboy]]'s, she tells Clark how she and Jonathan found him in a rocket that landed on Earth, how they adopted him, how they created his red-and-blue playsuit from the blankets in the rocket, how he first exhibited super-powers, and how, while still a baby, he caught his first gang of crooks.
+
+| StoryTitle2         = The Flags of Crime!
+| Synopsis2           = [[Robert Hobb (Earth-One)|Humpty Dumpty]] escapes jail again and begins a string of crimes with a flag motif, until [[Kal-El (Earth-One)|Superboy]] finally recaptures him.
+
+| StoryTitle3         = The Boy Without a World!
+| Synopsis3           = When gangster "Ruby" Dexter forces Superboy to remain off the Earth for 24 hours or see hostages gassed to death, the Boy of Steel manages to save the hostages, catch Dexter, and save his secret identity without breaking his promise.
+
+| Appearing1          = 
+'''Featured Characters:'''
+* {{a|[[Kal-El (Earth-One)|Superboy]]}}
+* {{a|[[Kal-El (Earth-One)|Superbaby]]}} {{flashback}}
+'''Supporting Characters:'''
+* {{a|[[Jonathan Kent (Earth-One)|Jonathan Kent]]}} {{flashalso}}
+* {{a|[[Martha Clark (Earth-One)|Martha Kent]]}} {{flashalso}}
+'''Antagonists:'''
+* Benson Gang
+* other gang
+'''Other Characters:'''
+* Alice, babysitter
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}}
+
+| Appearing2          = 
+'''Featured Characters:'''
+* {{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Supporting Characters:'''
+* {{a|[[Jonathan Kent (Earth-One)|Jonathan Kent]]}}
+'''Antagonists:'''
+* {{a|[[Robert Hobb (Earth-One)|Humpty Dumpty]]}}
+** Whitey
+** other henchman
+'''Other Characters:'''
+* Smallville Mayor
+* Smallville citizens
+* John Bondy, millionaire
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}}
+
+| Appearing3          = 
+'''Featured Characters:'''
+* {{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Antagonists:'''
+* Ruby Dexter, crime boss
+'''Other Characters:'''
+* Smallville High School:
+** Principal Martin
+** teachers
+** students
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}}
+**{{a|[[Smallville High School]]}}
+
+| Notes               = * First appearance of [[Kal-El (Earth-One)|the Earth-One Clark Kent]] as Superbaby.
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+}}
+{{Missing Characters}}</text>
+      <sha1>kb01b9h6ux6kys5nggyjj6dy7ysl8pe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Superboy Vol 1 9</title>
+    <ns>0</ns>
+    <id>124130</id>
+    <revision>
+      <id>3333557</id>
+      <parentid>3070480</parentid>
+      <timestamp>2023-08-10T08:20:09Z</timestamp>
+      <contributor>
+        <username>TupBot217</username>
+        <id>25983018</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */renaming parameter</comment>
+      <origin>3333557</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2465" sha1="kn44r6oo8vy17lwu1iqk9kfxvhlcung" xml:space="preserve">{{DC Database:Comic Template
+| Title               = Superboy 
+| Image               = Superboy Vol 1 9.jpg
+| Volume              = 1
+| Issue               = 9
+| Month               = 7
+| Year                = 1950
+
+| Executive Editor    = Whitney Ellsworth
+| CoverArtist1        = John Sikela
+
+| Editor1_1           = Jack Schiff
+| Writer1_1           = Edmond Hamilton
+| Penciler1_1         = John Sikela
+| Inker1_1            = Ed Dobrotka
+| Colorist1_1        = 
+| Letterer1_1         = 
+
+| Writer2_1           = Bill Finger
+| Penciler2_1         = John Sikela
+| Inker2_1            = Ed Dobrotka
+
+| Writer3_1           = 
+| Penciler3_1         = John Sikela
+| Inker3_1            = Ed Dobrotka
+
+| Quotation           = 
+| Speaker             = 
+
+| StoryTitle1         = Superboy's Man of Steel!
+| Synopsis1           = [[Kal-El (Earth-One)|Superboy]] "inherits" a [[robot]] named Percy from Professor Harmon, and the mechanical man's incredible powers and blind devotion prove more hindrance than help. 
+
+| StoryTitle2         = The Boy Who Stole a Brain!
+| Synopsis2           = Superboy helps teach an ingenious class cheat a lesson in honesty. 
+
+| StoryTitle3         = Ship Ahoy, Superboy!
+| Synopsis3           = [[Robert Hobb (Earth-One)|Humpty Dumpty]] breaks jail again with the help of a ship, and thus begins thefts of model ships when he starts his crime career anew. Superboy scuttles his schemes and returns him to jail. 
+
+| Appearing1          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Supporting Characters:'''
+* Percy the Robot {{Only}}
+'''Antagonists:'''
+* Trigger and his gang {{Only}}
+'''Other Characters:'''
+* Professor Harmon {{Only}}
+'''Locations:'''
+* &lt;br/&gt;
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Appearing2          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}} 
+'''Supporting Characters:'''
+* &lt;br/&gt;
+'''Antagonists:'''
+* Charlie Hendricks {{Only}}
+'''Other Characters:'''
+* Fred {{Only}}
+* Miss Marian
+* Dr. Baines {{Only}}
+'''Locations:'''
+* &lt;br/&gt;
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Appearing3          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Antagonists:'''
+* {{a|[[Robert Hobb (Earth-One)|Humpty Dumpty]]}}
+'''Other Characters:'''
+* Mr. Miller {{Only}}
+'''Locations:'''
+* &lt;br/&gt;
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Notes               = 
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+}}</text>
+      <sha1>kn44r6oo8vy17lwu1iqk9kfxvhlcung</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Superboy Vol 1 11</title>
+    <ns>0</ns>
+    <id>124131</id>
+    <revision>
+      <id>3333559</id>
+      <parentid>3071208</parentid>
+      <timestamp>2023-08-10T08:20:12Z</timestamp>
+      <contributor>
+        <username>TupBot217</username>
+        <id>25983018</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */renaming parameter</comment>
+      <origin>3333559</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2957" sha1="29l5ru4flfapv12ame8289rnwnwiaco" xml:space="preserve">{{DC Database:Comic Template
+| Title               = Superboy
+| Image               = Superboy Vol 1 11.jpg
+| Volume              = 1
+| Issue               = 11
+| Month               = 11
+| Year                = 1950
+
+| Executive Editor    = Whitney Ellsworth
+| CoverArtist1        = John Sikela
+| Quotation           = 
+| Speaker             = 
+
+| Editor1_1           = Jack Schiff
+| Writer1_1           = Bill Finger
+| Penciler1_1         = John Sikela
+| Inker1_1            = Ed Dobrotka
+| Colorist1_1        = 
+| Letterer1_1         = 
+| StoryTitle1         = The Town that was Out of This World
+| Synopsis1           = When two crooks steal a vial of metal-eating gas, Superboy must prevent anyone from leaving Smallville until he catches the malefactors.
+| Appearing1          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Supporting Characters:'''
+* {{a|[[Lana Lang (Earth-One)|Lana Lang]]}}
+'''Antagonists:'''
+* Frosty {{only}}
+'''Other Characters:'''
+* {{a|[[Jonathan Kent (Earth-One)|Jonathan Kent]]}}
+* {{a|[[Martha Clark (Earth-One)|Martha Kent]]}}
+* Professor John Dorman {{Only}}
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}}
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+*
+
+| Writer2_1           = 
+| Penciler2_1         = John Sikela
+| Inker2_1            = Ed Dobrotka
+| StoryTitle2         = The Pen-Pal Crimes
+| Synopsis2           = Strange and seemingly worthless "gifts" sent to Superboy from Smallville school's overseas pen-pals lead the Boy of Steel to thwart three crimes in other nations.
+| Appearing2          = 
+'''Featured Characters:'''
+* {{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Supporting Characters:'''
+* Pierre Couton {{Only}}
+* Johan {{Only}}
+* Simi {{Only}}
+* Dirk Kolken {{Only}}
+'''Antagonists:'''
+* Raneesi's thieves {{Only}}
+'''Other Characters:'''
+* &lt;br/&gt;
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}}
+* {{a|[[The Netherlands]]}}
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Writer3_1           = Don Cameron
+| Penciler3_1         = Curt Swan
+| Inker3_1            = John Fischetti
+| StoryTitle3         = The Famous First Crimes!
+| Synopsis3           = [[Robert Hobb (Earth-One)|Humpty Dumpty]] breaks jail again and vows to embarrass Superboy by using famous "firsts" as a theme for his crimes.
+| Appearing3          = 
+'''Featured Characters:'''
+* {{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Supporting Characters:'''
+* &lt;br/&gt;
+'''Antagonists:'''
+* {{a|[[Robert Hobb (Earth-One)|Humpty Dumpty]]}}
+'''Other Characters:'''
+* &lt;br/&gt;
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}}
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Notes               =
+* This issue marks Humpty Dumpty's last appearance until 1981's {{c|Superboy Vol 2 24}}.
+| Trivia              = 
+* Also appearing in this issue of ''[[Superboy]]'' was:
+** ''Buzzy: "Nature Loves a Nature-Lover"'' (PSA) by [[Jack Schiff]] and [[Win Mortimer]]
+| Recommended         = 
+| Links               = 
+}}</text>
+      <sha1>29l5ru4flfapv12ame8289rnwnwiaco</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Superboy Vol 1 6</title>
+    <ns>0</ns>
+    <id>124127</id>
+    <revision>
+      <id>3773303</id>
+      <parentid>3671528</parentid>
+      <timestamp>2025-05-22T12:16:34Z</timestamp>
+      <contributor>
+        <username>KylieMfever</username>
+        <id>1047061</id>
+      </contributor>
+      <origin>3773303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4996" sha1="mw59iyxeiak7n2ycjey4atqqzwsnfws" xml:space="preserve">{{DC Database:Comic Template
+| Title               = Superboy 
+| Image               = Superboy Vol 1 6.jpg
+| Volume              = 1
+| Issue               = 6
+| Month               = 1
+| Year                = 1950
+
+| Executive Editor    = Whitney Ellsworth
+| CoverArtist1        = Al Plastino
+
+| Writer1_1           = 
+| Penciler1_1         = John Sikela
+| Inker1_1            = Ed Dobrotka
+| Colorist1_1        = 
+| Letterer1_1         = 
+| Editor1_1           = Jack Schiff
+| Editor1_2           = Mort Weisinger
+
+| Writer2_1           = 
+| Penciler2_1         = John Sikela
+| Inker2_1            = Ed Dobrotka
+| Colorist2_1        = 
+| Letterer2_1         = 
+| Editor2_1           = Jack Schiff
+| Editor2_2           = Mort Weisinger
+
+| Writer3_1           = 
+| Penciler3_1         = 
+| Inker3_1            =
+| Colorist3_1        = 
+| Letterer3_1         = 
+| Editor3_1           = Jack Schiff
+| Editor3_2           = Mort Weisinger
+
+| Writer4_1           = 
+| Penciler4_1         = John Sikela
+| Inker4_1            = Ed Dobrotka
+| Colorist4_1        = 
+| Letterer4_1         = 
+| Editor4_1           = Jack Schiff
+| Editor4_2           = Mort Weisinger
+
+| Quotation           = 
+| Speaker             = 
+
+| StoryTitle1         = The Hobby Robber
+| Synopsis1           = [[Robert Hobb (Earth-One)|Humpty Dumpty]], the Hobby Robber, astride a jet-powered rocking horse, commits hobby thefts in [[Metropolis]] and [[Smallville, Kansas|Smallville]] until [[Kal-El (Earth-One)|Superboy]] finally brings him down.
+
+| StoryTitle2         = Superboy Storekeeper!
+| Synopsis2           = [[Jonathan Kent (Earth-One)|Jonathan Kent]] sprains his ankle and [[Kal-El (Earth-One)|Clark]] has to substitute for him in the [[Kent General Store]]. During this time he learns of a plot to duplicate a new [[United States of America|U.S.]] secret weapon by enemy agents, and foils it as Superboy.
+
+| StoryTitle3         = The Man Who Captured Geronimo
+| Synopsis3           = 
+
+| StoryTitle4         = The Hercules of Smallville!
+| Synopsis4           = When bully Buster Crain tries to make [[Greece|Greek]] immigrant boy Hercules Mafiades perform the legendary labors of [[Herakles (New Earth)|Hercules]] in order to win a part in the school play, [[Kal-El (Earth-One)|Superboy]] lends the new kid a hand and teaches Buster a lesson.
+
+| Appearing1          = 
+'''Featured Characters:'''
+* {{a|[[Kal-El (Earth-One)|Superboy/Clark Kent]]}}
+'''Supporting Characters:'''
+* &lt;br/&gt;
+'''Antagonists:'''
+* {{a|[[Robert Hobb (Earth-One)|Humpty Dumpty (Robert Hobb)]]}} {{1st}}
+'''Other Characters:'''
+* Smallville Police Department
+* {{WP|Croesus|King Croesus}} {{Mentioned}}
+'''Locations:'''
+* {{a|[[Metropolis]]}}
+* {{a|[[Smallville, Kansas|Smallville]]}}
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+
+| Appearing2          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy/Clark Kent]]}}
+'''Supporting Characters:'''
+* {{a|[[Jonathan Kent (Earth-One)|Jonathan Kent]]}}
+* {{a|[[Martha Clark (Earth-One)|Martha Kent]]}}
+'''Antagonists:'''
+* &lt;br/&gt;
+'''Other Characters:'''
+* Mr. Olsen {{Only}}
+* Lucy Olsen {{Only}}
+* The principal of Smallville High School
+* {{a|[[United States Army]]}}
+'''Locations:'''
+* {{a|[[Caribbean Sea]]}}
+** Mills Island
+* {{a|[[United States of America]]}}
+** Blue Bay
+** Blue Mountain Lake
+** Minnow River
+** {{a|[[Smallville, Kansas|Smallville]]}}
+*** {{a|[[Kent General Store]]}}
+*** {{a|[[Smallville High School]]}}
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Appearing3 = 
+'''Featured Characters:'''
+* {{WP|John Clum}}
+'''Other Characters:'''
+* {{WP|Geronimo}} 
+* {{WP|Apache|Apaches}}
+'''Locations:'''
+* {{a|[[19th Century]]}}
+** {{a|[[American Old West]]}}
+*** {{a|[[Arizona]]}}
+**** {{WP|San Carlos Apache Indian Reservation}}
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt; 
+
+| Appearing4          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy/Clark Kent]]}}
+'''Supporting Characters:'''
+* Hercules Mafiades {{Only}}
+'''Antagonists:'''
+* Buster Crain {{Only}}
+'''Other Characters:'''
+* {{a|[[Herakles (New Earth)|Hercules]]}} {{Green|Imagined}}
+* {{a|[[Hydra (species)|Hydra]]}} {{Green|Imagined}}
+* [[Gods of Olympus]] {{Mentioned}}
+** [[Phoebus Apollo (New Earth)|Apollo]] {{Mentioned}}
+'''Locations:'''
+* {{a|[[United States of America]]}}
+** {{a|[[Smallville, Kansas|Smallville]]}}
+*** {{a|[[Smallville High School]]}}
+* [[Greece]] {{Mentioned}}
+** [[Athens, Greece|Athens]] {{Mentioned}}
+'''Items:'''
+* &lt;br/&gt;
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Notes               = 
+| Trivia              = * [[Robert Hobb (Earth-One)|Humpty Dumpty]] became the first recurring villain of the Superboy feature, returning in issues [[Superboy Vol 1 7|#7]], [[Superboy Vol 1 8|#8]], [[Superboy Vol 1 9|#9]] and [[Superboy Vol 1 11|#11]]. He was revived decades later with the new alias of the [[Curator]] in [[Superboy Vol 2 24|''The New Adventures of Superboy'' #24]].
+| Recommended         = {{Superman Family RR}}
+| Links               = 
+}}
+{{Missing Characters}}</text>
+      <sha1>mw59iyxeiak7n2ycjey4atqqzwsnfws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Superboy Vol 2 24</title>
+    <ns>0</ns>
+    <id>124773</id>
+    <revision>
+      <id>3334531</id>
+      <parentid>2948963</parentid>
+      <timestamp>2023-08-10T08:45:48Z</timestamp>
+      <contributor>
+        <username>TupBot217</username>
+        <id>25983018</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */renaming parameter</comment>
+      <origin>3334531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3314" sha1="6llhb9bqb9f0xli5wyncnuhf1eymuet" xml:space="preserve">{{DC Database:Comic Template
+| Title               = Superboy 
+| Image               = Superboy Vol 2 24.jpg
+| Volume              = 2
+| Issue               = 24
+| Month               = 12
+| Year                = 1981
+
+| Executive Editor    = 
+| CoverArtist1        = Kurt Schaffenberger
+
+| Editor1_1           = 
+| Writer1_1           = E. Nelson Bridwell
+| Penciler1_1         = Kurt Schaffenberger
+| Inker1_1            = Dave Hunt
+| Colorist1_1        = Jerry Serpe
+| Letterer1_1         = Ben Oda
+| Writer2_1           = Bob Rozakis
+| Penciler2_1         = John Calnan
+| Inker2_1            = Frank McLaughlin
+
+| Quotation           = When I think of how many times '''[[Kal-El (Earth-One)|Superboy/Clark Kent]]''' misled me-- Oh, this is too '''good''' to keep to myself! I've got to tell '''someone''', or '''bust!'''
+| Speaker             = [[Lana Lang (Earth-One)|Lana Lang]]
+
+| StoryTitle1         = Blind Boy's Bluff
+| Synopsis1           = After the [[Robert Hobb (Earth-One)|Curator]] strikes Superboy with a Red Kryptonite bomb, the Boy of Steel is blind without his Kryptonian glasses. 
+
+| StoryTitle2         = Little Green Men Who Weren't There
+| Synopsis2           = Superbaby foils an alien expedition to Earth while being baby-sat.
+
+| Appearing1          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superboy]]}}
+'''Supporting Characters:'''
+* {{a|[[Krypto (Earth-One)|Krypto]]}}
+* {{a|[[Lana Lang (Earth-One)|Lana Lang]]}}
+* {{a|[[Jonathan Kent (Earth-One)|Jonathan Kent]]}} 
+* {{a|[[Martha Clark (Earth-One)|Martha Kent]]}} 
+* {{a|[[Douglas Parker (Earth-One)|Chief Parker]]}}
+* {{a|[[Peter Ross (Earth-One)|Pete Ross]]}}
+'''Antagonists:'''
+* {{a|[[Robert Hobb (Earth-One)|The Curator (Robert Hobb)]]}} {{1stas|the Curator}} {{Final}}
+'''Other Characters:'''
+* &lt;br/&gt;
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}} 
+** {{a|[[Kent Farm]]}}
+'''Items:'''
+* {{a|[[Red Kryptonite]]}}
+'''Vehicles:'''
+* {{a|[[Kryptonian Rocket]]}} {{Flashback}}
+
+| Appearing2          = 
+'''Featured Characters:'''
+*{{a|[[Kal-El (Earth-One)|Superbaby]]}}
+'''Supporting Characters:'''
+* {{a|[[Martha Clark (Earth-One)|Martha Kent]]}}
+* {{a|[[Jonathan Kent (Earth-One)|Jonathan Kent]]}}  
+'''Antagonists:'''
+* Grtz
+* Kvtz
+'''Other Characters:'''
+* Terry Flanahan 
+*{{a|[[Thomas Tomorrow (Earth-One)|Tommy Tomorrow]]}} {{TV}}
+* {{a|[[Adam Blake (New Earth)|Captain Comet]]}} {{green|Comic book}}
+'''Locations:'''
+* {{a|[[Smallville, Kansas|Smallville]]}} 
+** {{a|[[Kent Farm]]}}
+'''Items:'''
+* {{v|Strange Adventures Vol 1}} comic book
+'''Vehicles:'''
+* &lt;br/&gt;
+
+| Notes               = * The Curator last appeared as [[Humpty Dumpty]] in ''[[Superboy Vol 1|Superboy (Volume One)]]'' [[Superboy Vol 1 6|#6]]-[[Superboy Vol 1 9|#9]] and [[Superboy Vol 1 11|#11]] in 1950. He was Superboy's first recurring villain.
+* "The Little Green Men Who Weren't There!" is the last Superbaby story.
+| Trivia              = * In the second story, [[Thomas Tomorrow (Earth-One)|Tommy Tomorrow]] and [[Adam Blake (New Earth)|Captain Comet]] are depicted as fictional characters from a Sci-Fi TV series and a comic book respectively, but actually they defend the universe in the [[21st Century|21st]] and [[20th Century|20th Centuries]].
+| Recommended         = 
+| Links               = 
+}}
+{{Missing Characters}}</text>
+      <sha1>6llhb9bqb9f0xli5wyncnuhf1eymuet</sha1>
+    </revision>
+  </page>
+</mediawiki>
